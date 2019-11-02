@@ -1,1 +1,1610 @@
-[{"title":"必胜客（浦上万达店）","mark":0.078125},{"title":"OK海鲜自助餐厅（五四北旗舰店）","mark":0.074644375},{"title":"哈根达斯（福州东方店）","mark":0.06944444444444445},{"title":"元祖食品（五四店）","mark":0.06779661016949153},{"title":"八滋味郭记养生鱼锅","mark":0.06666666666666667},{"title":"盛世经典牛排·欧尚餐饮（宝龙城市广场店）","mark":0.06565961538461539},{"title":"必胜客（元洪店）","mark":0.06153846153846154},{"title":"察禮士港式花胶鸡打边炉（三坊七巷店）","mark":0.05555555555555555},{"title":"潮福城大酒楼（阳光城店）","mark":0.05292633333333333},{"title":"br?d·宏（三迪中心店）","mark":0.05263157894736842},{"title":"乐烧自助烤肉（宝龙城市广场店）","mark":0.05055483870967742},{"title":"鼎玖香重庆火锅","mark":0.05},{"title":"I&T紫荆花电音餐吧小酒馆","mark":0.05},{"title":"京都一品自助火锅烤肉（宝龙城市广场店）","mark":0.048395883333333334},{"title":"令狐冲·窑烤活鱼（达明路店）","mark":0.04752592592592592},{"title":"KE·客家融合WAY","mark":0.047058823529411764},{"title":"麦大叔·福建客家菜（华润万象里店）","mark":0.045454545454545456},{"title":"盛世经典牛排（东街店）","mark":0.04276471698113207},{"title":"57℃湘（苏宁广场店）","mark":0.04043452380952381},{"title":"炉鱼（爱琴海购物公园店）","mark":0.03784109589041096},{"title":"蓝海一家时尚自助餐厅（世欧广场店）","mark":0.036441249999999994},{"title":"福清牛太郎自助烧烤（裕荣汇店）","mark":0.03489042105263158},{"title":"北疆饭店（万象城店）","mark":0.0346646875},{"title":"刘福记北京烤鸭店（中亭街店）","mark":0.030970588235294114},{"title":"凡塔斯牛排餐厅（宝龙店）","mark":0.03048815873015873},{"title":"夏维夷自助火锅烧烤（晋安店）","mark":0.030254912280701752},{"title":"金太郎韩式自助烤肉火锅（台江万达店）","mark":0.027957622641509434},{"title":"海联潮港城","mark":0.02766525},{"title":"令狐冲·窑烤活鱼（连江店）","mark":0.02738313725490196},{"title":"周拍档爆爆虾（侨荣城店）","mark":0.026866964285714286},{"title":"四道菜·现撬海蛎煎（东百优品城店）","mark":0.02655686274509804},{"title":"大丰收李家（元洪店）","mark":0.025796153846153844},{"title":"舒友海鲜大酒楼","mark":0.023898197530864196},{"title":"哈哈碳都·韩国料理","mark":0.02340769230769231},{"title":"越城记黑鱼煲（世欧广场店）","mark":0.019705357142857143},{"title":"二回熟台湾馔锅（万象城店）","mark":0.019451639344262295},{"title":"牛太郎烧烤城（正大广场店）","mark":0.01711084745762712},{"title":"烘焙之家（万达店）","mark":0.01697837837837838},{"title":"汉拿山（仓山万达店）","mark":0.016931958762886598},{"title":"令狐冲·窑烤活鱼（东二环泰禾店）","mark":0.01578283606557377},{"title":"韩悦烤肉（仓山万达店）","mark":0.01575675},{"title":"锅先生（爱琴海购物公园店）","mark":0.015732037037037037},{"title":"食鼎记·私房菜（三坊七巷店）","mark":0.015674848484848486},{"title":"频品常尝爆爆虾（加州店）","mark":0.01534892857142857},{"title":"黄鹤楼（新天宇广场店）","mark":0.015184912280701754},{"title":"四道菜（福清万达店）","mark":0.01468},{"title":"汉拿山（台江万达店）","mark":0.0145599375},{"title":"过锅瘾三汁焖锅（裕荣汇店）","mark":0.014196551724137932},{"title":"一本屋寿司（五一路店）","mark":0.0141525},{"title":"贵族世家牛排（福清店）","mark":0.014046485714285713},{"title":"牛太郎自助烤肉（爱琴海购物公园店）","mark":0.013888507692307693},{"title":"捌零印象私家厨房（万象城店）","mark":0.013116785714285715},{"title":"韩阁炭火烤肉","mark":0.01267672},{"title":"袁记串串香","mark":0.012457627118644067},{"title":"小鱼小牛时尚欢乐餐厅（元洪城店）","mark":0.012189024390243903},{"title":"牛大将军（宝龙城市广场店）","mark":0.012094736842105264},{"title":"百加百炭火烤肉专门店","mark":0.011842654320987654},{"title":"小肥羊（浦上万达店）","mark":0.011798430107526882},{"title":"小肥羊（福州中福店）","mark":0.01173},{"title":"秘點心港式茶点（三坊七巷店）","mark":0.011370370370370371},{"title":"德庄火锅（仓山万达店）","mark":0.011123736842105264},{"title":"德庄火锅（金融街万达广场店）","mark":0.011015886075949367},{"title":"桥亭活鱼小镇（鼓山沃尔玛店）","mark":0.01059508},{"title":"潇肴江湖（宝龙城市广场店）","mark":0.0100908},{"title":"萨贝尔（东百观景餐厅）","mark":0.009771548387096774},{"title":"圣杰士阳光餐厅（福清沃尔玛店）","mark":0.009578275862068966},{"title":"金谷一漫烤自助餐厅（东二环泰禾店）","mark":0.009449746835443038},{"title":"青山咖啡（加州店）","mark":0.009418189655172415},{"title":"德庄火锅（王庄店）","mark":0.009297560975609756},{"title":"旺角台式涮涮锅（金峰店）","mark":0.0085308},{"title":"一筷涮自助火锅（则徐店）","mark":0.008472777777777777},{"title":"辣皇朝（福新中路店）","mark":0.00836620202020202},{"title":"黄鹤楼（大利嘉店）","mark":0.008156847457627119},{"title":"勺园印象江南","mark":0.007860869565217391},{"title":"福来茶馆","mark":0.007755454545454545},{"title":"牛太郎烧烤城（连江店）","mark":0.007639328571428572},{"title":"连江国惠大酒店（茶餐厅）","mark":0.007452289156626506},{"title":"创元千禧大酒店中餐厅","mark":0.00736294623655914},{"title":"苗颖竹荪鹅（成龙步行街店）","mark":0.00700425},{"title":"阿楷·乡村鱼蛙馆","mark":0.006871818181818182},{"title":"雅安张记木桶鱼（凯宴店）","mark":0.006824814814814815},{"title":"石山水美式餐厅（元洪店）","mark":0.0068059999999999996},{"title":"牛太郎烧烤城（国际明珠店）","mark":0.006564243243243243},{"title":"古都日本料理","mark":0.00638974358974359},{"title":"鑫客家（旗汛口店）","mark":0.006342807017543859},{"title":"探鱼（苏宁广场店）","mark":0.006225951807228916},{"title":"汉釜宫","mark":0.006076677419354838},{"title":"创元 · 香港轩","mark":0.005923098591549296},{"title":"Uncle Black黑叔叔西餐（公馆店）","mark":0.005801724137931035},{"title":"京福华肥牛火锅","mark":0.005766459016393443},{"title":"大丰收鱼庄（世欧店）","mark":0.005691358024691358},{"title":"海底诱惑重庆老火锅（五四路王府井店）","mark":0.005619791666666666},{"title":"星洲小聚（爱琴海购物公园店）","mark":0.005580588888888889},{"title":"炮哥海鲜楼","mark":0.005559803921568628},{"title":"佳丽花园","mark":0.005554420289855072},{"title":"烹然四季椰子鸡（王庄店）","mark":0.005553612244897959},{"title":"西城酒楼","mark":0.005518716417910448},{"title":"东方红·老坛剁椒鱼头（长冠旗舰店）","mark":0.005484617283950617},{"title":"膳皇潮叶记汕头牛肉火锅（中亭街总店）","mark":0.005464349206349206},{"title":"麦大叔·福建客家菜（融侨锦江店）","mark":0.0053950000000000005},{"title":"591涮烤吧","mark":0.0053834375},{"title":"江南韩国炭火烤肉（省府店）","mark":0.0053036428571428575},{"title":"过锅瘾三汁焖锅（万家城市广场店）","mark":0.00523110606060606},{"title":"年年大丰收（东二环泰禾店）","mark":0.005217321428571429},{"title":"佳客来（湖东路店）","mark":0.0051950799999999995},{"title":"大丰收鱼庄（五四北泰禾广场店）","mark":0.00516144578313253},{"title":"拿坡里小镇（冠亚店）","mark":0.0051589999999999995},{"title":"凡塔斯牛排餐厅（王府井店）","mark":0.0050574864864864864},{"title":"德天肥牛海鲜火锅（东二环泰禾店）","mark":0.005051590909090909},{"title":"桂小厨（东二环泰禾店）","mark":0.0050324117647058825},{"title":"晋都戴斯国际酒店·西餐厅","mark":0.004879679012345679},{"title":"大丰收脆鱼（元洪店）","mark":0.004769375},{"title":"西湖印象餐饮店","mark":0.004320978260869565},{"title":"蚝门火锅（大利嘉城店）","mark":0.004260350515463918},{"title":"三迪华美达茶点餐厅","mark":0.004143939393939394},{"title":"阿里郎韩式料理（二环店）","mark":0.004109085106382979},{"title":"蒋记捌零印象（锦江店）","mark":0.004078417910447761},{"title":"晟璟海鲜楼","mark":0.003925333333333334},{"title":"幸福西饼生日蛋糕","mark":0.003907407407407407},{"title":"舒馨小厨","mark":0.003589240506329114},{"title":"川悦味来·自助牛肉海鲜火锅","mark":0.003534285714285714},{"title":"原蒸舫蒸汽火锅","mark":0.0035035915492957746},{"title":"回魏大牌档（学军店）","mark":0.0034819565217391302},{"title":"豪客来牛排（苏宁广场店-0321）","mark":0.0034254545454545458},{"title":"崇三楼（北二环店）","mark":0.003420515151515152},{"title":"香港厨房","mark":0.0033309433962264152},{"title":"二我也酒家","mark":0.0032726315789473686},{"title":"龍城渡老火锅","mark":0.003152058823529412},{"title":"汕味馆汕头牛肉火锅（长乐北路店）","mark":0.0031136363636363636},{"title":"海角七号火锅工坊","mark":0.0030739726027397257},{"title":"蜀香阁烤鱼（加州店）","mark":0.0028616785714285714},{"title":"汕之膳叶记汕头牛肉火锅（温泉路店）","mark":0.00285425},{"title":"印度尼泊尔菜（三坊七巷店）","mark":0.0027905},{"title":"阿来泰国餐厅（西湖店）","mark":0.00278175},{"title":"我在咖啡（西湖店）","mark":0.0027628205128205127},{"title":"新天然居筒骨店（华林路总店）","mark":0.002753735294117647},{"title":"青咖啡（三坊七巷店）","mark":0.002673467741935484},{"title":"映山红海鲜火锅（金山店）","mark":0.0026726666666666665},{"title":"膳品居大酒楼","mark":0.0026679701492537313},{"title":"宫廷石锅鱼·美味园海鲜大排档（平潭店）","mark":0.0026158333333333333},{"title":"膳园民俗酒楼","mark":0.002561093023255814},{"title":"御膳老爹泉水蒸气石锅鱼（福清万达店）","mark":0.0025491964285714284},{"title":"太空舱果木烤吧（金山店）","mark":0.0025155223880597016},{"title":"萨贝尔(宝龙城市广场店)","mark":0.0025093086419753084},{"title":"伊思玛雅牛排法式餐厅（福清万达店）","mark":0.0024855116279069766},{"title":"茶会吃仙（福新东路店）","mark":0.0024419607843137255},{"title":"优美乐蛋糕屋","mark":0.0022773636363636364},{"title":"张鲜记海鲜火锅","mark":0.002259493670886076},{"title":"久久江记海鲜火锅（福新路明星店）","mark":0.002160416666666667},{"title":"财记柴焖锅","mark":0.002144578125},{"title":"福太郎居酒屋（加州城店）","mark":0.002046677966101695},{"title":"韩式居酒屋（东二环泰禾店）","mark":0.0020331470588235293},{"title":"香港富临皇宫","mark":0.0020027912087912086},{"title":"波西米亚蛋糕（生产中心）","mark":0.001895632911392405},{"title":"萨贝尔意式餐厅（万家店）","mark":0.0018704109589041094},{"title":"蜀乡小镇（西环西路店）","mark":0.0018255471698113209},{"title":"臻飨福闽清馆","mark":0.0017575223880597014},{"title":"高仕土灶柴火鸡","mark":0.0017179142857142856},{"title":"丽江龙继斑鱼庄（王府井店）","mark":0.0016766739130434783},{"title":"九门寨石锅鱼（福新店）","mark":0.0016470588235294118},{"title":"大丰收鱼庄（长山湖店）","mark":0.0015922988505747125},{"title":"三杯珈琲","mark":0.00158508},{"title":"朝阳大酒楼","mark":0.0015577362637362636},{"title":"西点蓝调咖啡吧","mark":0.0015500727272727273},{"title":"说麻道辣（温泉店）","mark":0.0014773636363636362},{"title":"俏江湖","mark":0.0014334615384615384},{"title":"仓敷居酒屋（元帅路店）","mark":0.001420635294117647},{"title":"妙香素食","mark":0.0014155945945945945},{"title":"乡里人乌鱼府（西航店）","mark":0.0013877391304347828},{"title":"花漾四季锅物会","mark":0.0013872439024390244},{"title":"街心美食荟","mark":0.0013769230769230768},{"title":"鑫记汕头牛肉火锅","mark":0.00137115625},{"title":"鼓岭农家（招贤路店）","mark":0.0013147241379310346},{"title":"福广汕头牛肉火锅城","mark":0.0012588421052631578},{"title":"钦榕大酒楼（群升国际店）","mark":0.0012586813186813187},{"title":"大宅门市井火锅（三坊七巷店）","mark":0.00123755},{"title":"湾边河鲜第一家","mark":0.0011888311688311689},{"title":"印咖啡","mark":0.0011790697674418605},{"title":"皇牛阁潮汕牛肉火锅（仓山店）","mark":0.001123079365079365},{"title":"卓越大酒店中餐部","mark":0.0011183098591549295},{"title":"全牛宴（桔园二路店）","mark":0.0011066666666666666},{"title":"祥广记（世欧王庄店）","mark":0.0011066666666666666},{"title":"欧贝拉手工烘焙（后埔街店）","mark":0.001106574074074074},{"title":"牛辣牛肉火锅（斗池店）","mark":0.0010485102040816326},{"title":"鲤升源·成都印象","mark":0.001034676923076923},{"title":"岚居酒屋（仓山万达店）","mark":0.0010278181818181818},{"title":"源益养生宝典","mark":0.00094425},{"title":"萨贝尔意式餐厅（奥体店）","mark":0.0009310344827586207},{"title":"鱼旨寿司（红星店）","mark":0.0009112903225806452},{"title":"普利欧法式生日蛋糕（宝龙店）","mark":0.0008805555555555555},{"title":"坊巷人家","mark":0.000831578947368421},{"title":"富豪酒家（正大广场店）","mark":0.0008260000000000001},{"title":"咖喱小栈（万象城店）","mark":0.0008139444444444445},{"title":"味冠1912海鲜楼","mark":0.0007993814432989691},{"title":"元气屋日本料理","mark":0.0007312075471698113},{"title":"维恩时光餐厅","mark":0.0007179710144927537},{"title":"海悦美食广场","mark":0.0006724637681159419},{"title":"古典玫瑰园（三坊七巷店）","mark":0.0006197727272727273},{"title":"森林公园自由人BBQ烧烤乐园","mark":0.0006008709677419355},{"title":"潮汕牛肉火锅（白龙路店）","mark":0.00059508},{"title":"灰太狼烤羊腿（学生街店）","mark":0.0005873975903614457},{"title":"红双囍宴席厅（五四北泰禾店）","mark":0.0005865591397849463},{"title":"百味记小郡肝砂罐串串","mark":0.000532051282051282},{"title":"星山妈妈手炭火烤肉专门店","mark":0.000527},{"title":"渔多多鱼庄","mark":0.0004954444444444444},{"title":"福州宴酒楼","mark":0.0004851666666666666},{"title":"三迪华美达广场酒店·风粤轩中餐厅","mark":0.00048038202247191014},{"title":"梅邑生态园","mark":0.00047584946236559143},{"title":"品味江湖（梦山店）","mark":0.00047058823529411766},{"title":"宴东方大酒楼（火车南站店）","mark":0.0004408955223880597},{"title":"兄妹坊?专业炭火窑烤（前屿东路店）","mark":0.00042278481012658224},{"title":"牛脚尖（象园店）","mark":0.0004152542372881356},{"title":"湘鄂老地方菜馆","mark":0.0003955454545454545},{"title":"储缘蛋糕（三叉街店）","mark":0.000391},{"title":"味名坊","mark":0.00038678125},{"title":"人民公社","mark":0.0003803703703703704},{"title":"尚膳鼎.顺德民间菜（北梦山路店）","mark":0.00035759302325581396},{"title":"麦大叔·福建客家菜（五四新华都店）","mark":0.00034262962962962963},{"title":"阳澄湖渔夫大闸蟹（五里亭店）","mark":0.0003233866666666667},{"title":"皇牛阁潮汕牛肉火锅（黎明店）","mark":0.0002785714285714286},{"title":"好自在素菜馆","mark":0.00026418918918918923},{"title":"福豚福居酒屋（井大路店）","mark":0.0002584269662921348},{"title":"学军阿土伯生蚝（台江总店）","mark":0.0002578125},{"title":"旺巴蜀小郡肝火锅串串香","mark":0.00024636764705882356},{"title":"我在咖啡（华林店）","mark":0.00023673333333333333},{"title":"兰亭序大排档","mark":0.0002111111111111111},{"title":"日日鲜866茶餐厅","mark":0.00020657971014492754},{"title":"坛南湾经济大排档","mark":0.00020507999999999998},{"title":"合口味汕头牛肉火锅（大坪路店）","mark":0.00019203571428571428},{"title":"HI CAKE·亲子diy蛋糕私人订制","mark":0.00019099999999999998},{"title":"井榕酒楼●生态闽菜（排尾路店）","mark":0.00018775510204081632},{"title":"伍月烘焙May Cake","mark":0.00018365384615384614},{"title":"一品粥（六一环岛中城名仕汇店）","mark":0.00016212962962962964},{"title":"福宁老家·霞浦海鲜（五一店）","mark":0.00014074074074074076},{"title":"糕小姐","mark":0.0001209},{"title":"中山日本创作料理","mark":0.00010646464646464648},{"title":"发坤老饭店","mark":0.00010508},{"title":"食中福大酒楼（鼓山店）","mark":0.00010062068965517242},{"title":"禄合門美蛙火锅（福州店）","mark":0.00009930232558139536},{"title":"开蚝屋（台江万达店）","mark":0.00009321568627450982},{"title":"EaseDay 壹直咖啡（三坊七巷店）","mark":0.00007879518072289156},{"title":"鲜猫海鲜饭（东二环泰禾店）","mark":0.0000761904761904762},{"title":"moorii陌里咖啡餐厅","mark":0.000053125},{"title":"福州世茂洲际酒店·大堂酒廊","mark":0.000048351648351648355},{"title":"福聚来海鲜吧","mark":0.00004705882352941176},{"title":"聚鲜园（南平西路店）","mark":0.00004118987341772152},{"title":"晋蚝门·高压锅生蚝（达明店）","mark":0.0000390625},{"title":"再叙老街烧烤（晋安店）","mark":0.00003809523809523809},{"title":"映莲居餐饮","mark":0.000036950819672131144},{"title":"哈尔滨小味串店（宝龙店）","mark":0.000028222222222222223},{"title":"香米拉温泉酒店福满楼中餐厅","mark":0.000028},{"title":"帅帝音乐餐吧","mark":0.00002701754385964912},{"title":"私享家咖啡","mark":0.000024137931034482758},{"title":"香米拉嘉品轩自助餐厅","mark":0.0000228},{"title":"明记客家牛肉（奎桥店）","mark":0.000022781818181818182},{"title":"澳泽烘焙（龙山店）","mark":0.000022},{"title":"佰纳汇HIFI音乐世界精酿啤酒吧","mark":0.00002165432098765432},{"title":"中海源","mark":0.000021095890410958904},{"title":"友口福","mark":0.0000209},{"title":"恩盛隆永泰土菜馆","mark":0.00001962025316455696},{"title":"别有天吴家私房菜","mark":0.000018659574468085107},{"title":"CCsweety·甜品工作室","mark":0.000017906976744186045},{"title":"盛港海鲜吧（五四路店）","mark":0.000013340425531914892},{"title":"闽鲜汇小马酒楼","mark":0.000010771428571428572},{"title":"仙溪老谢土菜馆","mark":0.000010188679245283019},{"title":"鳗匠 活鳗现烤专门馆（万象里店）","mark":0.000009666666666666667},{"title":"名蚝烧烤（岳峰店）","mark":0.0000040317460317460316},{"title":"回魏大牌档（鸿博店）","mark":0.0000035277777777777775}]
+[
+    {
+        "title": "必胜客（浦上万达店）",
+        "mark": 0.078125,
+        "avg": "https://img.meituan.net/600.600/msmerchant/a56c4d4082a7b662f19c4b9a6eb56c622342599.jpg",
+        "web": "http://meituan.com/meishi/2718043/"
+    },
+    {
+        "title": "OK海鲜自助餐厅（五四北旗舰店）",
+        "mark": 0.074644375,
+        "avg": "http://p0.meituan.net/600.600/bbia/36f2252ec6e2ab8ac03395c5180f3c85387378.jpg",
+        "web": "http://meituan.com/meishi/5528165/"
+    },
+    {
+        "title": "哈根达斯（福州东方店）",
+        "mark": 0.06944444444444445,
+        "avg": "https://img.meituan.net/600.600/msmerchant/2a2f5dad1fef25a7fb389288740f72f4459641.jpg",
+        "web": "http://meituan.com/meishi/832973/"
+    },
+    {
+        "title": "元祖食品（五四店）",
+        "mark": 0.06779661016949153,
+        "avg": "https://img.meituan.net/600.600/msmerchant/64596310d0df965926e512f1a68b28fc313656.jpg",
+        "web": "http://meituan.com/meishi/1552092/"
+    },
+    {
+        "title": "八滋味郭记养生鱼锅",
+        "mark": 0.06666666666666667,
+        "avg": "https://img.meituan.net/msmerchant/e0f67f38115865e56350dfdf1cfae1cf53226.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/195870940/"
+    },
+    {
+        "title": "盛世经典牛排·欧尚餐饮（宝龙城市广场店）",
+        "mark": 0.06565961538461539,
+        "avg": "http://p1.meituan.net/600.600/deal/__44335052__1607526.jpg",
+        "web": "http://meituan.com/meishi/1029494/"
+    },
+    {
+        "title": "必胜客（元洪店）",
+        "mark": 0.06153846153846154,
+        "avg": "https://img.meituan.net/600.600/msmerchant/a56c4d4082a7b662f19c4b9a6eb56c622342599.jpg",
+        "web": "http://meituan.com/meishi/834047/"
+    },
+    {
+        "title": "察禮士港式花胶鸡打边炉（三坊七巷店）",
+        "mark": 0.05555555555555555,
+        "avg": "https://img.meituan.net/180.180/msmerchant/8ba795201498aeb05da6d057e1d4b42e2133014.png@600w_600h_1l",
+        "web": "http://meituan.com/meishi/193469009/"
+    },
+    {
+        "title": "潮福城大酒楼（阳光城店）",
+        "mark": 0.05292633333333333,
+        "avg": "http://p1.meituan.net/600.600/apiback/ca2c4907beded84df27259085ea0c24a95604.jpg",
+        "web": "http://meituan.com/meishi/1524104/"
+    },
+    {
+        "title": "br?d·宏（三迪中心店）",
+        "mark": 0.05263157894736842,
+        "avg": "http://qcloud.dpfile.com/pc/ixbxHFO1OHA2J_E4U3zwQpSewMw5JMRAKCW4ECZ6cey8ivKQ6Uhx733ieVS35oHcmXKqvF8xz-Pgbz9r8ffpSA.jpg",
+        "web": "http://meituan.com/meishi/779654858/"
+    },
+    {
+        "title": "乐烧自助烤肉（宝龙城市广场店）",
+        "mark": 0.05055483870967742,
+        "avg": "http://p0.meituan.net/600.600/deal/209a3ff6a221d677de21fdcfa0513495350242.jpg",
+        "web": "http://meituan.com/meishi/1413381/"
+    },
+    {
+        "title": "鼎玖香重庆火锅",
+        "mark": 0.05,
+        "avg": "https://img.meituan.net/180.180/msmerchant/c440fb9301b809e2f3bb96c88b8f0884235273.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/187808729/"
+    },
+    {
+        "title": "I&T紫荆花电音餐吧小酒馆",
+        "mark": 0.05,
+        "avg": "https://img.meituan.net/msmerchant/7b7c1110896da1a7c1746889eba2714c1331054.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/1712626271/"
+    },
+    {
+        "title": "京都一品自助火锅烤肉（宝龙城市广场店）",
+        "mark": 0.048395883333333334,
+        "avg": "https://img.meituan.net/600.600/msmerchant/911bc20d5c3858c44d67f131a31d7af1231435.jpg",
+        "web": "http://meituan.com/meishi/2431343/"
+    },
+    {
+        "title": "令狐冲·窑烤活鱼（达明路店）",
+        "mark": 0.04752592592592592,
+        "avg": "https://img.meituan.net/180.180/msmerchant/4d202bf53e7667315005de06e924ab2378977.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/4685898/"
+    },
+    {
+        "title": "KE·客家融合WAY",
+        "mark": 0.047058823529411764,
+        "avg": "https://img.meituan.net/msmerchant/9498cface04b1d2239cce3b336f780ec103613.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/1383811883/"
+    },
+    {
+        "title": "麦大叔·福建客家菜（华润万象里店）",
+        "mark": 0.045454545454545456,
+        "avg": "https://img.meituan.net/msmerchant/e756b8a0a5ccf38e570cbee8a7f44e36983549.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/1998020550/"
+    },
+    {
+        "title": "盛世经典牛排（东街店）",
+        "mark": 0.04276471698113207,
+        "avg": "http://p1.meituan.net/600.600/deal/201207/27/_0727163219.jpg",
+        "web": "http://meituan.com/meishi/1529234/"
+    },
+    {
+        "title": "57℃湘（苏宁广场店）",
+        "mark": 0.04043452380952381,
+        "avg": "http://p1.meituan.net/600.600/scarlett/e0e677ed43c2bd6f6730b6cffd3629f560960.png",
+        "web": "http://meituan.com/meishi/5116090/"
+    },
+    {
+        "title": "炉鱼（爱琴海购物公园店）",
+        "mark": 0.03784109589041096,
+        "avg": "https://img.meituan.net/600.600/msmerchant/14d28f1fe2551bcaea3d04943144d39c699653.jpg",
+        "web": "http://meituan.com/meishi/52195222/"
+    },
+    {
+        "title": "蓝海一家时尚自助餐厅（世欧广场店）",
+        "mark": 0.036441249999999994,
+        "avg": "http://p1.meituan.net/600.600/mogu/ab43576137ae1358c146893cb112069169675.jpg",
+        "web": "http://meituan.com/meishi/41705893/"
+    },
+    {
+        "title": "福清牛太郎自助烧烤（裕荣汇店）",
+        "mark": 0.03489042105263158,
+        "avg": "http://p1.meituan.net/600.600/deal/34ef4e58cc232094fbaedb12215adef4317678.jpg",
+        "web": "http://meituan.com/meishi/42074131/"
+    },
+    {
+        "title": "北疆饭店（万象城店）",
+        "mark": 0.0346646875,
+        "avg": "https://img.meituan.net/600.600/msmerchant/25fcdef9a9d953635e549a17cc0f7e3c61418.jpg",
+        "web": "http://meituan.com/meishi/4220861/"
+    },
+    {
+        "title": "刘福记北京烤鸭店（中亭街店）",
+        "mark": 0.030970588235294114,
+        "avg": "http://p0.meituan.net/600.600/mogu/e673f6a9815f91666e219f5adef00ae839590.png",
+        "web": "http://meituan.com/meishi/5201077/"
+    },
+    {
+        "title": "凡塔斯牛排餐厅（宝龙店）",
+        "mark": 0.03048815873015873,
+        "avg": "https://img.meituan.net/600.600/msmerchant/d267fb68ad0cf4a6462e1cc442ce8c6c303996.jpg",
+        "web": "http://meituan.com/meishi/1875399/"
+    },
+    {
+        "title": "夏维夷自助火锅烧烤（晋安店）",
+        "mark": 0.030254912280701752,
+        "avg": "http://p0.meituan.net/600.600/mogu/2395670a36e5948f219e635f10dc85d8152215.jpg",
+        "web": "http://meituan.com/meishi/69456026/"
+    },
+    {
+        "title": "金太郎韩式自助烤肉火锅（台江万达店）",
+        "mark": 0.027957622641509434,
+        "avg": "http://p1.meituan.net/600.600/deal/__42179185__1401312.jpg",
+        "web": "http://meituan.com/meishi/6928917/"
+    },
+    {
+        "title": "海联潮港城",
+        "mark": 0.02766525,
+        "avg": "http://p0.meituan.net/600.600/mogu/71915a291c3bf846637b447fe5db5b73157606.jpg",
+        "web": "http://meituan.com/meishi/832549/"
+    },
+    {
+        "title": "令狐冲·窑烤活鱼（连江店）",
+        "mark": 0.02738313725490196,
+        "avg": "http://p1.meituan.net/600.600/bbia/4d202bf53e7667315005de06e924ab2378977.jpg",
+        "web": "http://meituan.com/meishi/41238035/"
+    },
+    {
+        "title": "周拍档爆爆虾（侨荣城店）",
+        "mark": 0.026866964285714286,
+        "avg": "http://p1.meituan.net/600.600/deal/__15406759__6476290.jpg",
+        "web": "http://meituan.com/meishi/2528749/"
+    },
+    {
+        "title": "四道菜·现撬海蛎煎（东百优品城店）",
+        "mark": 0.02655686274509804,
+        "avg": "https://img.meituan.net/600.600/msmerchant/3ff89876632b6be4374669c92a61808b194395.jpg",
+        "web": "http://meituan.com/meishi/2472731/"
+    },
+    {
+        "title": "大丰收李家（元洪店）",
+        "mark": 0.025796153846153844,
+        "avg": "http://p0.meituan.net/600.600/mogu/356a0b49dbaf08f822322617ffdaf3fd52608.jpg",
+        "web": "http://meituan.com/meishi/5767034/"
+    },
+    {
+        "title": "舒友海鲜大酒楼",
+        "mark": 0.023898197530864196,
+        "avg": "http://p0.meituan.net/600.600/deal/__13594130__4559322.jpg",
+        "web": "http://meituan.com/meishi/1546884/"
+    },
+    {
+        "title": "哈哈碳都·韩国料理",
+        "mark": 0.02340769230769231,
+        "avg": "http://p0.meituan.net/600.600/apiback/1f5641628218cece1dbe603d2f65f3e2121169.jpg",
+        "web": "http://meituan.com/meishi/42337285/"
+    },
+    {
+        "title": "越城记黑鱼煲（世欧广场店）",
+        "mark": 0.019705357142857143,
+        "avg": "http://p0.meituan.net/600.600/bbia/82720f9e2dccd94fff8f9f1a03499dd2121733.jpg",
+        "web": "http://meituan.com/meishi/41889590/"
+    },
+    {
+        "title": "二回熟台湾馔锅（万象城店）",
+        "mark": 0.019451639344262295,
+        "avg": "http://p0.meituan.net/600.600/mogu/fa3db0755ecd83d2d6f00bb677cd028e478192.jpg",
+        "web": "http://meituan.com/meishi/41984264/"
+    },
+    {
+        "title": "牛太郎烧烤城（正大广场店）",
+        "mark": 0.01711084745762712,
+        "avg": "http://p1.meituan.net/600.600/mogu/d0039d463c29a928c4ea19f749dccf8362263.jpg",
+        "web": "http://meituan.com/meishi/832293/"
+    },
+    {
+        "title": "烘焙之家（万达店）",
+        "mark": 0.01697837837837838,
+        "avg": "http://p0.meituan.net/600.600/deal/__11612640__7308660.jpg",
+        "web": "http://meituan.com/meishi/2501814/"
+    },
+    {
+        "title": "汉拿山（仓山万达店）",
+        "mark": 0.016931958762886598,
+        "avg": "http://p1.meituan.net/600.600/bbia/62f5fd4bfbd817f231342a74ea553bb9187069.jpg",
+        "web": "http://meituan.com/meishi/87628/"
+    },
+    {
+        "title": "令狐冲·窑烤活鱼（东二环泰禾店）",
+        "mark": 0.01578283606557377,
+        "avg": "https://img.meituan.net/180.180/msmerchant/4d202bf53e7667315005de06e924ab2378977.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/93988102/"
+    },
+    {
+        "title": "韩悦烤肉（仓山万达店）",
+        "mark": 0.01575675,
+        "avg": "http://p1.meituan.net/600.600/bbia/3b9fea5456cd2553be491728999d6364393584.jpg",
+        "web": "http://meituan.com/meishi/1478062/"
+    },
+    {
+        "title": "锅先生（爱琴海购物公园店）",
+        "mark": 0.015732037037037037,
+        "avg": "http://p0.meituan.net/600.600/deal/d12b05a2aa4d042de867be40b378728b94406.jpg",
+        "web": "http://meituan.com/meishi/65552947/"
+    },
+    {
+        "title": "食鼎记·私房菜（三坊七巷店）",
+        "mark": 0.015674848484848486,
+        "avg": "https://img.meituan.net/600.600/msmerchant/fd5ba8f91f15b37524ae6e6d85bff22864801.jpg",
+        "web": "http://meituan.com/meishi/829758/"
+    },
+    {
+        "title": "频品常尝爆爆虾（加州店）",
+        "mark": 0.01534892857142857,
+        "avg": "http://p0.meituan.net/600.600/deal/0339d04d4753e8255f0acebdf5b6e2fb108084.jpg",
+        "web": "http://meituan.com/meishi/41078640/"
+    },
+    {
+        "title": "黄鹤楼（新天宇广场店）",
+        "mark": 0.015184912280701754,
+        "avg": "http://p1.meituan.net/600.600/deal/__14454739__2607803.jpg",
+        "web": "http://meituan.com/meishi/2438152/"
+    },
+    {
+        "title": "四道菜（福清万达店）",
+        "mark": 0.01468,
+        "avg": "https://img.meituan.net/600.600/msmerchant/3ff89876632b6be4374669c92a61808b194395.jpg",
+        "web": "http://meituan.com/meishi/6341659/"
+    },
+    {
+        "title": "汉拿山（台江万达店）",
+        "mark": 0.0145599375,
+        "avg": "http://p1.meituan.net/600.600/bbia/62f5fd4bfbd817f231342a74ea553bb9187069.jpg",
+        "web": "http://meituan.com/meishi/842762/"
+    },
+    {
+        "title": "过锅瘾三汁焖锅（裕荣汇店）",
+        "mark": 0.014196551724137932,
+        "avg": "https://img.meituan.net/600.600/msmerchant/1688fec4bded35d72a28fc79fe8e91fd1791062.jpg",
+        "web": "http://meituan.com/meishi/40900409/"
+    },
+    {
+        "title": "一本屋寿司（五一路店）",
+        "mark": 0.0141525,
+        "avg": "http://p0.meituan.net/600.600/apiback/74619d8711f2a2b4c59b21089163236534108.jpg",
+        "web": "http://meituan.com/meishi/3262180/"
+    },
+    {
+        "title": "贵族世家牛排（福清店）",
+        "mark": 0.014046485714285713,
+        "avg": "https://img.meituan.net/600.600/msmerchant/81fbe198c4a488543c2d34b6531e4252716374.jpg",
+        "web": "http://meituan.com/meishi/1878094/"
+    },
+    {
+        "title": "牛太郎自助烤肉（爱琴海购物公园店）",
+        "mark": 0.013888507692307693,
+        "avg": "https://img.meituan.net/600.600/msmerchant/3ed6f3366e2c226945daa15c75529b4c39208.jpg",
+        "web": "http://meituan.com/meishi/51096270/"
+    },
+    {
+        "title": "捌零印象私家厨房（万象城店）",
+        "mark": 0.013116785714285715,
+        "avg": "https://img.meituan.net/600.600/msmerchant/c84b65869b402783566e52b3cc197685238894.jpg",
+        "web": "http://meituan.com/meishi/62418524/"
+    },
+    {
+        "title": "韩阁炭火烤肉",
+        "mark": 0.01267672,
+        "avg": "http://p1.meituan.net/600.600/mogu/8616919304435b93b1d23098bc398698374853.jpg",
+        "web": "http://meituan.com/meishi/4211177/"
+    },
+    {
+        "title": "袁记串串香",
+        "mark": 0.012457627118644067,
+        "avg": "https://img.meituan.net/600.600/msmerchant/2eda2f916bb85ceb1140ba93164b85b3114877.jpg",
+        "web": "http://meituan.com/meishi/42600915/"
+    },
+    {
+        "title": "小鱼小牛时尚欢乐餐厅（元洪城店）",
+        "mark": 0.012189024390243903,
+        "avg": "https://img.meituan.net/600.600/msmerchant/63077c63c42d4c8e2b872d3705a9040f572971.jpg",
+        "web": "http://meituan.com/meishi/6172943/"
+    },
+    {
+        "title": "牛大将军（宝龙城市广场店）",
+        "mark": 0.012094736842105264,
+        "avg": "http://p0.meituan.net/600.600/mogu/0c9b0dde733efe2c2aeb40a486f45435111146.jpg",
+        "web": "http://meituan.com/meishi/83578/"
+    },
+    {
+        "title": "百加百炭火烤肉专门店",
+        "mark": 0.011842654320987654,
+        "avg": "https://img.meituan.net/600.600/msmerchant/c0a8369455a6354218f8b0cb3d5aab3b847805.jpg",
+        "web": "http://meituan.com/meishi/6594594/"
+    },
+    {
+        "title": "小肥羊（浦上万达店）",
+        "mark": 0.011798430107526882,
+        "avg": "https://img.meituan.net/600.600/msmerchant/478cf50a1e1cb505677849237ec2736f689508.jpg",
+        "web": "http://meituan.com/meishi/2411073/"
+    },
+    {
+        "title": "小肥羊（福州中福店）",
+        "mark": 0.01173,
+        "avg": "https://img.meituan.net/600.600/msmerchant/478cf50a1e1cb505677849237ec2736f689508.jpg",
+        "web": "http://meituan.com/meishi/834012/"
+    },
+    {
+        "title": "秘點心港式茶点（三坊七巷店）",
+        "mark": 0.011370370370370371,
+        "avg": "http://p1.meituan.net/600.600/mogu/1f66344990266dcf9f1953bd7075ff2833540.jpg",
+        "web": "http://meituan.com/meishi/5075911/"
+    },
+    {
+        "title": "德庄火锅（仓山万达店）",
+        "mark": 0.011123736842105264,
+        "avg": "https://img.meituan.net/600.600/msmerchant/cfb49bbcb7ab2d9f0046b61e32fc2a3f622846.jpg",
+        "web": "http://meituan.com/meishi/1448484/"
+    },
+    {
+        "title": "德庄火锅（金融街万达广场店）",
+        "mark": 0.011015886075949367,
+        "avg": "http://p0.meituan.net/600.600/bbia/3f9b981eb9c28991d9c30e8c881f1b5f710168.png",
+        "web": "http://meituan.com/meishi/1029485/"
+    },
+    {
+        "title": "桥亭活鱼小镇（鼓山沃尔玛店）",
+        "mark": 0.01059508,
+        "avg": "http://p0.meituan.net/600.600/bbia/ba6b9ea61d998540c7778c77adbbeeaf375750.jpg",
+        "web": "http://meituan.com/meishi/2755892/"
+    },
+    {
+        "title": "潇肴江湖（宝龙城市广场店）",
+        "mark": 0.0100908,
+        "avg": "http://p1.meituan.net/600.600/mogu/acca09d1ed55f4dad57e45bf271e0f3315757.jpg",
+        "web": "http://meituan.com/meishi/1151672/"
+    },
+    {
+        "title": "萨贝尔（东百观景餐厅）",
+        "mark": 0.009771548387096774,
+        "avg": "http://p0.meituan.net/600.600/apiback/b504be5b47f70899e2824cf16589e4b8159778.jpg",
+        "web": "http://meituan.com/meishi/832669/"
+    },
+    {
+        "title": "圣杰士阳光餐厅（福清沃尔玛店）",
+        "mark": 0.009578275862068966,
+        "avg": "https://img.meituan.net/600.600/msmerchant/b11470f8d0b17a23c67295c7713b3a5763114.png",
+        "web": "http://meituan.com/meishi/5879098/"
+    },
+    {
+        "title": "金谷一漫烤自助餐厅（东二环泰禾店）",
+        "mark": 0.009449746835443038,
+        "avg": "http://p0.meituan.net/600.600/mogu/d481dbe51875a28d64e811464ea6626d135013.jpg",
+        "web": "http://meituan.com/meishi/63598367/"
+    },
+    {
+        "title": "青山咖啡（加州店）",
+        "mark": 0.009418189655172415,
+        "avg": "http://p0.meituan.net/600.600/deal/__41771689__8026517.jpg",
+        "web": "http://meituan.com/meishi/4319505/"
+    },
+    {
+        "title": "德庄火锅（王庄店）",
+        "mark": 0.009297560975609756,
+        "avg": "http://p0.meituan.net/600.600/bbia/3f9b981eb9c28991d9c30e8c881f1b5f710168.png",
+        "web": "http://meituan.com/meishi/41207995/"
+    },
+    {
+        "title": "旺角台式涮涮锅（金峰店）",
+        "mark": 0.0085308,
+        "avg": "http://p1.meituan.net/600.600/deal/d3597d5b17f53b7ef034fa954ce09125294619.jpg",
+        "web": "http://meituan.com/meishi/41655442/"
+    },
+    {
+        "title": "一筷涮自助火锅（则徐店）",
+        "mark": 0.008472777777777777,
+        "avg": "http://p1.meituan.net/600.600/deal/__17576432__6951393.jpg",
+        "web": "http://meituan.com/meishi/2570329/"
+    },
+    {
+        "title": "辣皇朝（福新中路店）",
+        "mark": 0.00836620202020202,
+        "avg": "https://img.meituan.net/600.600/msmerchant/d5f3c1900aa0e4fe1a4f9714dc8034053414426.jpg",
+        "web": "http://meituan.com/meishi/5797242/"
+    },
+    {
+        "title": "黄鹤楼（大利嘉店）",
+        "mark": 0.008156847457627119,
+        "avg": "http://p0.meituan.net/600.600/deal/__26383091__6702655.jpg",
+        "web": "http://meituan.com/meishi/2554588/"
+    },
+    {
+        "title": "勺园印象江南",
+        "mark": 0.007860869565217391,
+        "avg": "http://p1.meituan.net/600.600/mogu/1d1fd20cfdd86107da50b33a01b19e6925752.jpg",
+        "web": "http://meituan.com/meishi/1124148/"
+    },
+    {
+        "title": "福来茶馆",
+        "mark": 0.007755454545454545,
+        "avg": "https://img.meituan.net/600.600/msmerchant/8591c69afa7b8416f0433daf76c846a33825071.jpg",
+        "web": "http://meituan.com/meishi/836423/"
+    },
+    {
+        "title": "牛太郎烧烤城（连江店）",
+        "mark": 0.007639328571428572,
+        "avg": "http://p0.meituan.net/600.600/deal/__22762121__4210033.jpg",
+        "web": "http://meituan.com/meishi/4120615/"
+    },
+    {
+        "title": "连江国惠大酒店（茶餐厅）",
+        "mark": 0.007452289156626506,
+        "avg": "http://p1.meituan.net/600.600/deal/3617635cc0a099c98743b5e69d753d6a232095.jpg",
+        "web": "http://meituan.com/meishi/5312965/"
+    },
+    {
+        "title": "创元千禧大酒店中餐厅",
+        "mark": 0.00736294623655914,
+        "avg": "http://p0.meituan.net/600.600/mogu/c84cb9dcc90da1d0c0e969a4db8d80fb241647.jpg",
+        "web": "http://meituan.com/meishi/51442081/"
+    },
+    {
+        "title": "苗颖竹荪鹅（成龙步行街店）",
+        "mark": 0.00700425,
+        "avg": "https://img.meituan.net/600.600/msmerchant/6963cbf2a63e6657e8a48152ea0353dd129667.jpg",
+        "web": "http://meituan.com/meishi/842842/"
+    },
+    {
+        "title": "阿楷·乡村鱼蛙馆",
+        "mark": 0.006871818181818182,
+        "avg": "http://p1.meituan.net/600.600/mogu/b20d44ffbd071780a3d9e98b989f2b0644042.jpg",
+        "web": "http://meituan.com/meishi/1457001/"
+    },
+    {
+        "title": "雅安张记木桶鱼（凯宴店）",
+        "mark": 0.006824814814814815,
+        "avg": "http://p1.meituan.net/600.600/deal/ae38ed992c249425b6e8a24ff128eabd139952.jpg",
+        "web": "http://meituan.com/meishi/40699390/"
+    },
+    {
+        "title": "石山水美式餐厅（元洪店）",
+        "mark": 0.0068059999999999996,
+        "avg": "http://p0.meituan.net/600.600/bbia/124c7df8a5679d669bc80276887a7a6126168.jpg",
+        "web": "http://meituan.com/meishi/87301/"
+    },
+    {
+        "title": "牛太郎烧烤城（国际明珠店）",
+        "mark": 0.006564243243243243,
+        "avg": "http://p0.meituan.net/600.600/mogu/723aaf3cd5be89e8d824f744e1b4bea1539936.jpg",
+        "web": "http://meituan.com/meishi/1469018/"
+    },
+    {
+        "title": "古都日本料理",
+        "mark": 0.00638974358974359,
+        "avg": "https://img.meituan.net/600.600/msmerchant/28304fa9884ba4baa5058b0502673a56115678.jpg",
+        "web": "http://meituan.com/meishi/833626/"
+    },
+    {
+        "title": "鑫客家（旗汛口店）",
+        "mark": 0.006342807017543859,
+        "avg": "https://img.meituan.net/600.600/msmerchant/2991beaa73cc9f86b25d44778d806cf126213.jpg",
+        "web": "http://meituan.com/meishi/1146725/"
+    },
+    {
+        "title": "探鱼（苏宁广场店）",
+        "mark": 0.006225951807228916,
+        "avg": "https://img.meituan.net/600.600/msmerchant/dc913ae1a59f0d5b16f1cbc6db01a30a922742.jpg",
+        "web": "http://meituan.com/meishi/42665358/"
+    },
+    {
+        "title": "汉釜宫",
+        "mark": 0.006076677419354838,
+        "avg": "https://img.meituan.net/600.600/msmerchant/7709f61c762d7448a60eef80ff1fc731496611.jpg",
+        "web": "http://meituan.com/meishi/41027689/"
+    },
+    {
+        "title": "创元 · 香港轩",
+        "mark": 0.005923098591549296,
+        "avg": "http://p0.meituan.net/600.600/deal/233ac3ef0781203ebaf4e0218d10b9f584754.jpg",
+        "web": "http://meituan.com/meishi/41653195/"
+    },
+    {
+        "title": "Uncle Black黑叔叔西餐（公馆店）",
+        "mark": 0.005801724137931035,
+        "avg": "https://img.meituan.net/600.600/msmerchant/73a3b738c7ae9bbc473956a42a0382e11303327.png",
+        "web": "http://meituan.com/meishi/4530318/"
+    },
+    {
+        "title": "京福华肥牛火锅",
+        "mark": 0.005766459016393443,
+        "avg": "https://img.meituan.net/600.600/msmerchant/e49216a11b3d3cd6244e7603720721b0142697.jpg",
+        "web": "http://meituan.com/meishi/1878193/"
+    },
+    {
+        "title": "大丰收鱼庄（世欧店）",
+        "mark": 0.005691358024691358,
+        "avg": "http://p1.meituan.net/600.600/mogu/0bccc8f844e1f70198d966001e4e1a8497224.jpg",
+        "web": "http://meituan.com/meishi/68902557/"
+    },
+    {
+        "title": "海底诱惑重庆老火锅（五四路王府井店）",
+        "mark": 0.005619791666666666,
+        "avg": "http://p1.meituan.net/600.600/mogu/ace81eb37d54d5f39ee30337d87b790329833.jpg",
+        "web": "http://meituan.com/meishi/51895266/"
+    },
+    {
+        "title": "星洲小聚（爱琴海购物公园店）",
+        "mark": 0.005580588888888889,
+        "avg": "http://p0.meituan.net/600.600/bbia/caa491de0cb205ec99c78d522b08ac1728330.png",
+        "web": "http://meituan.com/meishi/52879947/"
+    },
+    {
+        "title": "炮哥海鲜楼",
+        "mark": 0.005559803921568628,
+        "avg": "http://p1.meituan.net/600.600/mogu/3b7eb060dd4b31a460cb2e8a4df806df334324.jpg",
+        "web": "http://meituan.com/meishi/2526260/"
+    },
+    {
+        "title": "佳丽花园",
+        "mark": 0.005554420289855072,
+        "avg": "http://p0.meituan.net/600.600/apiback/fa676fb0e7333a31d1fd52c9c76dd8a260850.jpg",
+        "web": "http://meituan.com/meishi/1875091/"
+    },
+    {
+        "title": "烹然四季椰子鸡（王庄店）",
+        "mark": 0.005553612244897959,
+        "avg": "https://img.meituan.net/600.600/msmerchant/de8dc661d4ad1db99aff080b3fb45c84203168.jpg",
+        "web": "http://meituan.com/meishi/42046478/"
+    },
+    {
+        "title": "西城酒楼",
+        "mark": 0.005518716417910448,
+        "avg": "http://p1.meituan.net/600.600/deal/__49346263__9732458.jpg",
+        "web": "http://meituan.com/meishi/834750/"
+    },
+    {
+        "title": "东方红·老坛剁椒鱼头（长冠旗舰店）",
+        "mark": 0.005484617283950617,
+        "avg": "http://p0.meituan.net/180.180/deal/__32942193__5621497.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/842599/"
+    },
+    {
+        "title": "膳皇潮叶记汕头牛肉火锅（中亭街总店）",
+        "mark": 0.005464349206349206,
+        "avg": "http://p1.meituan.net/600.600/mogu/2069f82e8ab6b4689063f8e3a9684c21114566.jpg",
+        "web": "http://meituan.com/meishi/5909978/"
+    },
+    {
+        "title": "麦大叔·福建客家菜（融侨锦江店）",
+        "mark": 0.0053950000000000005,
+        "avg": "https://img.meituan.net/600.600/msmerchant/1b061328252b179eb71edf748936f7301182150.jpg",
+        "web": "http://meituan.com/meishi/2400257/"
+    },
+    {
+        "title": "591涮烤吧",
+        "mark": 0.0053834375,
+        "avg": "http://p0.meituan.net/600.600/deal/1bc717b777893d3c416691e498a02847286950.jpg",
+        "web": "http://meituan.com/meishi/41052070/"
+    },
+    {
+        "title": "江南韩国炭火烤肉（省府店）",
+        "mark": 0.0053036428571428575,
+        "avg": "http://p1.meituan.net/600.600/deal/0d9145e5f2c94275b855ec17ff557372149690.jpg",
+        "web": "http://meituan.com/meishi/42892557/"
+    },
+    {
+        "title": "过锅瘾三汁焖锅（万家城市广场店）",
+        "mark": 0.00523110606060606,
+        "avg": "http://p1.meituan.net/600.600/mogu/2aed4a156b38ac3d21aef2ca1936cef945724.jpg",
+        "web": "http://meituan.com/meishi/41761548/"
+    },
+    {
+        "title": "年年大丰收（东二环泰禾店）",
+        "mark": 0.005217321428571429,
+        "avg": "http://p0.meituan.net/600.600/mogu/922fe1a58cc0c45ad7969a2bdd9ef60c62879.jpg",
+        "web": "http://meituan.com/meishi/66274286/"
+    },
+    {
+        "title": "佳客来（湖东路店）",
+        "mark": 0.0051950799999999995,
+        "avg": "http://p1.meituan.net/600.600/deal/be0bb596f2cb2e06c97854a254927ed6293381.jpg",
+        "web": "http://meituan.com/meishi/834097/"
+    },
+    {
+        "title": "大丰收鱼庄（五四北泰禾广场店）",
+        "mark": 0.00516144578313253,
+        "avg": "http://p1.meituan.net/600.600/mogu/0bccc8f844e1f70198d966001e4e1a8497224.jpg",
+        "web": "http://meituan.com/meishi/6421521/"
+    },
+    {
+        "title": "拿坡里小镇（冠亚店）",
+        "mark": 0.0051589999999999995,
+        "avg": "https://img.meituan.net/600.600/msmerchant/a729ce54462ce5aea21ecae89d86bb4a172483.jpg",
+        "web": "http://meituan.com/meishi/41211199/"
+    },
+    {
+        "title": "凡塔斯牛排餐厅（王府井店）",
+        "mark": 0.0050574864864864864,
+        "avg": "https://img.meituan.net/600.600/msmerchant/d267fb68ad0cf4a6462e1cc442ce8c6c303996.jpg",
+        "web": "http://meituan.com/meishi/51141793/"
+    },
+    {
+        "title": "德天肥牛海鲜火锅（东二环泰禾店）",
+        "mark": 0.005051590909090909,
+        "avg": "https://img.meituan.net/600.600/msmerchant/76a16114462252417e69fe86c29388fa964199.png",
+        "web": "http://meituan.com/meishi/64642075/"
+    },
+    {
+        "title": "桂小厨（东二环泰禾店）",
+        "mark": 0.0050324117647058825,
+        "avg": "https://img.meituan.net/600.600/msmerchant/0cb092ff20dc9c717c7b315aa12208dd2878671.jpg",
+        "web": "http://meituan.com/meishi/62799142/"
+    },
+    {
+        "title": "晋都戴斯国际酒店·西餐厅",
+        "mark": 0.004879679012345679,
+        "avg": "http://p0.meituan.net/600.600/deal/914a38b6ac1e200f76c07b963d71fc55169579.jpg",
+        "web": "http://meituan.com/meishi/835370/"
+    },
+    {
+        "title": "大丰收脆鱼（元洪店）",
+        "mark": 0.004769375,
+        "avg": "http://p1.meituan.net/600.600/mogu/0bccc8f844e1f70198d966001e4e1a8497224.jpg",
+        "web": "http://meituan.com/meishi/833938/"
+    },
+    {
+        "title": "西湖印象餐饮店",
+        "mark": 0.004320978260869565,
+        "avg": "http://p0.meituan.net/600.600/bbia/ba7ab4f39a598ca2b70e0b72b5976ccd42033.jpg",
+        "web": "http://meituan.com/meishi/68387712/"
+    },
+    {
+        "title": "蚝门火锅（大利嘉城店）",
+        "mark": 0.004260350515463918,
+        "avg": "http://p1.meituan.net/600.600/bbia/be23ae14cb27135144cf85123391d0aa724467.jpg",
+        "web": "http://meituan.com/meishi/69921264/"
+    },
+    {
+        "title": "三迪华美达茶点餐厅",
+        "mark": 0.004143939393939394,
+        "avg": "http://p1.meituan.net/600.600/deal/c588084c295d98d17658ea76676c5da1198922.jpg",
+        "web": "http://meituan.com/meishi/5741020/"
+    },
+    {
+        "title": "阿里郎韩式料理（二环店）",
+        "mark": 0.004109085106382979,
+        "avg": "http://p0.meituan.net/600.600/deal/ee5b7e341f0b000857c23bcba0906c64581738.jpg",
+        "web": "http://meituan.com/meishi/829777/"
+    },
+    {
+        "title": "蒋记捌零印象（锦江店）",
+        "mark": 0.004078417910447761,
+        "avg": "http://p0.meituan.net/600.600/mogu/ab8ab8137e356e935b66cabe82c3596277932.jpg",
+        "web": "http://meituan.com/meishi/5067925/"
+    },
+    {
+        "title": "晟璟海鲜楼",
+        "mark": 0.003925333333333334,
+        "avg": "http://p1.meituan.net/600.600/deal/ee5ce3594257dd9def4cf0f5332b9fdd324228.jpg",
+        "web": "http://meituan.com/meishi/4716107/"
+    },
+    {
+        "title": "幸福西饼生日蛋糕",
+        "mark": 0.003907407407407407,
+        "avg": "http://p1.meituan.net/600.600/scarlett/7b5f675c70e84c66907759c9a559e5c8112620.jpg",
+        "web": "http://meituan.com/meishi/158679242/"
+    },
+    {
+        "title": "舒馨小厨",
+        "mark": 0.003589240506329114,
+        "avg": "http://p0.meituan.net/600.600/mogu/e82d51a9b1da13a675f1284525580192167054.jpg",
+        "web": "http://meituan.com/meishi/5318730/"
+    },
+    {
+        "title": "川悦味来·自助牛肉海鲜火锅",
+        "mark": 0.003534285714285714,
+        "avg": "https://img.meituan.net/180.180/msmerchant/2be327c82ea7d8eb0177e8aa8563a16477633.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/179261032/"
+    },
+    {
+        "title": "原蒸舫蒸汽火锅",
+        "mark": 0.0035035915492957746,
+        "avg": "http://p1.meituan.net/600.600/mogu/f9d33dc5e715f45b1bf6c7c209b11b9c17096.jpg",
+        "web": "http://meituan.com/meishi/71337354/"
+    },
+    {
+        "title": "回魏大牌档（学军店）",
+        "mark": 0.0034819565217391302,
+        "avg": "https://img.meituan.net/600.600/msmerchant/d76a9c1653bfe45aa7dc58b8afe1474f76607.jpg",
+        "web": "http://meituan.com/meishi/5707379/"
+    },
+    {
+        "title": "豪客来牛排（苏宁广场店-0321）",
+        "mark": 0.0034254545454545458,
+        "avg": "https://img.meituan.net/600.600/msmerchant/37d35aef116c35d8c29501fe4f817c54206229.jpg",
+        "web": "http://meituan.com/meishi/4118567/"
+    },
+    {
+        "title": "崇三楼（北二环店）",
+        "mark": 0.003420515151515152,
+        "avg": "http://p1.meituan.net/600.600/deal/848660559acc84019c3a6eb61ab0077d130341.jpg",
+        "web": "http://meituan.com/meishi/1877105/"
+    },
+    {
+        "title": "香港厨房",
+        "mark": 0.0033309433962264152,
+        "avg": "http://p1.meituan.net/600.600/deal/f19f109eb853146f3c28bbee7237b7c9106391.jpg",
+        "web": "http://meituan.com/meishi/51336754/"
+    },
+    {
+        "title": "二我也酒家",
+        "mark": 0.0032726315789473686,
+        "avg": "http://p1.meituan.net/600.600/deal/7f1a1c77e5391e1beb59f494fa95d5c1212549.jpg",
+        "web": "http://meituan.com/meishi/829858/"
+    },
+    {
+        "title": "龍城渡老火锅",
+        "mark": 0.003152058823529412,
+        "avg": "http://p0.meituan.net/600.600/mogu/c58771c1b6bd523fe354a8ef106c2039160244.jpg",
+        "web": "http://meituan.com/meishi/79689192/"
+    },
+    {
+        "title": "汕味馆汕头牛肉火锅（长乐北路店）",
+        "mark": 0.0031136363636363636,
+        "avg": "http://p1.meituan.net/600.600/deal/34f5916450a8ae8dc5eeca71169e0651106961.jpg",
+        "web": "http://meituan.com/meishi/1876541/"
+    },
+    {
+        "title": "海角七号火锅工坊",
+        "mark": 0.0030739726027397257,
+        "avg": "http://p0.meituan.net/600.600/deal/32282059874eb83e4fae5a4be6790e32380327.jpg",
+        "web": "http://meituan.com/meishi/6844192/"
+    },
+    {
+        "title": "蜀香阁烤鱼（加州店）",
+        "mark": 0.0028616785714285714,
+        "avg": "http://p1.meituan.net/600.600/deal/a5700316953905cb50c309ed74258709170102.jpg",
+        "web": "http://meituan.com/meishi/1877895/"
+    },
+    {
+        "title": "汕之膳叶记汕头牛肉火锅（温泉路店）",
+        "mark": 0.00285425,
+        "avg": "http://p1.meituan.net/600.600/bbia/aaebb41faff4db64329ac059acba4eaf450151.jpg",
+        "web": "http://meituan.com/meishi/41971450/"
+    },
+    {
+        "title": "印度尼泊尔菜（三坊七巷店）",
+        "mark": 0.0027905,
+        "avg": "http://p0.meituan.net/600.600/deal/f505328176429c3f96cfe0552ab1eda5467755.jpg",
+        "web": "http://meituan.com/meishi/6674861/"
+    },
+    {
+        "title": "阿来泰国餐厅（西湖店）",
+        "mark": 0.00278175,
+        "avg": "http://p0.meituan.net/600.600/msmerchant/4e28bda0372c2be026c3fddf775c5557590838.jpg",
+        "web": "http://meituan.com/meishi/1878205/"
+    },
+    {
+        "title": "我在咖啡（西湖店）",
+        "mark": 0.0027628205128205127,
+        "avg": "https://img.meituan.net/600.600/msmerchant/aded888cd5d216d94b501e7aa935293c36730.jpg",
+        "web": "http://meituan.com/meishi/5556874/"
+    },
+    {
+        "title": "新天然居筒骨店（华林路总店）",
+        "mark": 0.002753735294117647,
+        "avg": "http://p0.meituan.net/600.600/mogu/a59721708d5f5929514e172544161768241841.jpg",
+        "web": "http://meituan.com/meishi/1536416/"
+    },
+    {
+        "title": "青咖啡（三坊七巷店）",
+        "mark": 0.002673467741935484,
+        "avg": "http://p1.meituan.net/600.600/apiback/22d3a9a08b75de8b82becd93ba8f7d1836200.jpg",
+        "web": "http://meituan.com/meishi/5104308/"
+    },
+    {
+        "title": "映山红海鲜火锅（金山店）",
+        "mark": 0.0026726666666666665,
+        "avg": "https://img.meituan.net/600.600/msmerchant/a6e7dbb1cd341d220f6caa956eaa11ca10295896.png",
+        "web": "http://meituan.com/meishi/42689968/"
+    },
+    {
+        "title": "膳品居大酒楼",
+        "mark": 0.0026679701492537313,
+        "avg": "https://img.meituan.net/600.600/msmerchant/5f8e5696a3a6e1b9a11270060847dca2241695.jpg",
+        "web": "http://meituan.com/meishi/2501003/"
+    },
+    {
+        "title": "宫廷石锅鱼·美味园海鲜大排档（平潭店）",
+        "mark": 0.0026158333333333333,
+        "avg": "http://p1.meituan.net/600.600/deal/987919b2b02f86269413dbb4b27deebe87893.jpg",
+        "web": "http://meituan.com/meishi/5771063/"
+    },
+    {
+        "title": "膳园民俗酒楼",
+        "mark": 0.002561093023255814,
+        "avg": "https://img.meituan.net/600.600/msmerchant/e8ccdc67e14b2f6fa70602836a01657c182738.jpg",
+        "web": "http://meituan.com/meishi/1875848/"
+    },
+    {
+        "title": "御膳老爹泉水蒸气石锅鱼（福清万达店）",
+        "mark": 0.0025491964285714284,
+        "avg": "https://img.meituan.net/600.600/msmerchant/5377f9de497e4773e02173ccde551135341847.jpg",
+        "web": "http://meituan.com/meishi/50536640/"
+    },
+    {
+        "title": "太空舱果木烤吧（金山店）",
+        "mark": 0.0025155223880597016,
+        "avg": "https://img.meituan.net/600.600/msmerchant/6fcef145378cc498fe388de5f46a611b40193.jpg",
+        "web": "http://meituan.com/meishi/65828632/"
+    },
+    {
+        "title": "萨贝尔(宝龙城市广场店)",
+        "mark": 0.0025093086419753084,
+        "avg": "http://p1.meituan.net/600.600/mogu/23c9322d23cfd2c4d6ac1b92042be97385020.jpg",
+        "web": "http://meituan.com/meishi/4015164/"
+    },
+    {
+        "title": "伊思玛雅牛排法式餐厅（福清万达店）",
+        "mark": 0.0024855116279069766,
+        "avg": "https://img.meituan.net/600.600/msmerchant/3dbaa52fcfca17e9cc3567a55c5087e8156839.jpg",
+        "web": "http://meituan.com/meishi/41382604/"
+    },
+    {
+        "title": "茶会吃仙（福新东路店）",
+        "mark": 0.0024419607843137255,
+        "avg": "http://p1.meituan.net/600.600/deal/66111eba009873a3a70ed52d89e89ae3373371.jpg",
+        "web": "http://meituan.com/meishi/830685/"
+    },
+    {
+        "title": "优美乐蛋糕屋",
+        "mark": 0.0022773636363636364,
+        "avg": "https://img.meituan.net/600.600/msmerchant/2d3d923e9342f4fc4dc9d6a1c477883b78886.jpg",
+        "web": "http://meituan.com/meishi/4765656/"
+    },
+    {
+        "title": "张鲜记海鲜火锅",
+        "mark": 0.002259493670886076,
+        "avg": "http://p0.meituan.net/600.600/deal/52c166e1ff24d3677836acd98c3e12d5155793.jpg",
+        "web": "http://meituan.com/meishi/4701380/"
+    },
+    {
+        "title": "久久江记海鲜火锅（福新路明星店）",
+        "mark": 0.002160416666666667,
+        "avg": "http://p1.meituan.net/600.600/mogu/df0b135a7caa7684359850d4ec8acce4139899.jpg",
+        "web": "http://meituan.com/meishi/6689496/"
+    },
+    {
+        "title": "财记柴焖锅",
+        "mark": 0.002144578125,
+        "avg": "https://img.meituan.net/600.600/msmerchant/27647abdaea94e80c7fe2b57501743713105640.jpg",
+        "web": "http://meituan.com/meishi/40776672/"
+    },
+    {
+        "title": "福太郎居酒屋（加州城店）",
+        "mark": 0.002046677966101695,
+        "avg": "https://img.meituan.net/600.600/msmerchant/ed8c149c01f442d563307ee4d20fd890263057.jpg",
+        "web": "http://meituan.com/meishi/41582477/"
+    },
+    {
+        "title": "韩式居酒屋（东二环泰禾店）",
+        "mark": 0.0020331470588235293,
+        "avg": "http://p0.meituan.net/600.600/bbia/8900be236b52ed81d08cee7ba019216f9256971.jpg",
+        "web": "http://meituan.com/meishi/69211498/"
+    },
+    {
+        "title": "香港富临皇宫",
+        "mark": 0.0020027912087912086,
+        "avg": "http://p1.meituan.net/600.600/apiback/af4535b68fea51d2af66e211f117b12f88142.jpg",
+        "web": "http://meituan.com/meishi/5234222/"
+    },
+    {
+        "title": "波西米亚蛋糕（生产中心）",
+        "mark": 0.001895632911392405,
+        "avg": "http://p0.meituan.net/180.180/deal/eac1d383f1dbb520adeae5444c44c75360618.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/166168243/"
+    },
+    {
+        "title": "萨贝尔意式餐厅（万家店）",
+        "mark": 0.0018704109589041094,
+        "avg": "http://p1.meituan.net/600.600/apiback/963126f3bc8640f20372028eb9fc339c4369845.jpg",
+        "web": "http://meituan.com/meishi/41671768/"
+    },
+    {
+        "title": "蜀乡小镇（西环西路店）",
+        "mark": 0.0018255471698113209,
+        "avg": "http://p1.meituan.net/600.600/mogu/3d08000f92461706f4181d5af46ca73154756.jpg",
+        "web": "http://meituan.com/meishi/2760786/"
+    },
+    {
+        "title": "臻飨福闽清馆",
+        "mark": 0.0017575223880597014,
+        "avg": "http://p1.meituan.net/600.600/deal/d6af32a8390c1eafc5f04fe762681f6648567.jpg",
+        "web": "http://meituan.com/meishi/65688248/"
+    },
+    {
+        "title": "高仕土灶柴火鸡",
+        "mark": 0.0017179142857142856,
+        "avg": "http://p1.meituan.net/600.600/dealwatera/27a17ac23006ac3a37cf2ef00a2b0cd987393.jpg",
+        "web": "http://meituan.com/meishi/68493921/"
+    },
+    {
+        "title": "丽江龙继斑鱼庄（王府井店）",
+        "mark": 0.0016766739130434783,
+        "avg": "https://img.meituan.net/600.600/msmerchant/7011293c3f6b470eb8fa94e0e2a296ad63225.jpg",
+        "web": "http://meituan.com/meishi/162875376/"
+    },
+    {
+        "title": "九门寨石锅鱼（福新店）",
+        "mark": 0.0016470588235294118,
+        "avg": "http://p0.meituan.net/600.600/deal/6a3432585a92962ba941dedbcbb11af299630.jpg",
+        "web": "http://meituan.com/meishi/40830482/"
+    },
+    {
+        "title": "大丰收鱼庄（长山湖店）",
+        "mark": 0.0015922988505747125,
+        "avg": "http://p0.meituan.net/600.600/deal/__7628536__7491944.jpg",
+        "web": "http://meituan.com/meishi/1877793/"
+    },
+    {
+        "title": "三杯珈琲",
+        "mark": 0.00158508,
+        "avg": "http://p1.meituan.net/600.600/mogu/9d138c4857a5f1113a79d8af34807f8993911.jpg",
+        "web": "http://meituan.com/meishi/830678/"
+    },
+    {
+        "title": "朝阳大酒楼",
+        "mark": 0.0015577362637362636,
+        "avg": "http://p1.meituan.net/600.600/deal/__17807702__7910411.jpg",
+        "web": "http://meituan.com/meishi/836441/"
+    },
+    {
+        "title": "西点蓝调咖啡吧",
+        "mark": 0.0015500727272727273,
+        "avg": "http://p1.meituan.net/600.600/deal/__39237977__7403414.jpg",
+        "web": "http://meituan.com/meishi/4170119/"
+    },
+    {
+        "title": "说麻道辣（温泉店）",
+        "mark": 0.0014773636363636362,
+        "avg": "https://img.meituan.net/600.600/msmerchant/27b4a57c1132d42573b0946b576ea084657428.jpg",
+        "web": "http://meituan.com/meishi/1485071/"
+    },
+    {
+        "title": "俏江湖",
+        "mark": 0.0014334615384615384,
+        "avg": "http://p1.meituan.net/600.600/mogu/3481b15da815f1d3b3fb0b0d5385b57a94102.jpg",
+        "web": "http://meituan.com/meishi/62336411/"
+    },
+    {
+        "title": "仓敷居酒屋（元帅路店）",
+        "mark": 0.001420635294117647,
+        "avg": "http://p1.meituan.net/600.600/mogu/6d06735afd0fa40974ba6b617be9757025035.jpg",
+        "web": "http://meituan.com/meishi/52639418/"
+    },
+    {
+        "title": "妙香素食",
+        "mark": 0.0014155945945945945,
+        "avg": "https://img.meituan.net/600.600/msmerchant/2e58a1e2bd64dc171002d1852ca1ce6718003.jpg",
+        "web": "http://meituan.com/meishi/29331/"
+    },
+    {
+        "title": "乡里人乌鱼府（西航店）",
+        "mark": 0.0013877391304347828,
+        "avg": "http://p0.meituan.net/600.600/deal/__44078358__2473795.jpg",
+        "web": "http://meituan.com/meishi/65812334/"
+    },
+    {
+        "title": "花漾四季锅物会",
+        "mark": 0.0013872439024390244,
+        "avg": "https://img.meituan.net/600.600/msmerchant/743190746d72fe1ea9aec94c70cbbd4985156.jpg",
+        "web": "http://meituan.com/meishi/4117179/"
+    },
+    {
+        "title": "街心美食荟",
+        "mark": 0.0013769230769230768,
+        "avg": "http://p0.meituan.net/600.600/deal/__45744110__6690985.jpg",
+        "web": "http://meituan.com/meishi/2700747/"
+    },
+    {
+        "title": "鑫记汕头牛肉火锅",
+        "mark": 0.00137115625,
+        "avg": "http://p0.meituan.net/600.600/mogu/202d7ee8b8f39b0ee032968699379b8f9743.jpg",
+        "web": "http://meituan.com/meishi/2538071/"
+    },
+    {
+        "title": "鼓岭农家（招贤路店）",
+        "mark": 0.0013147241379310346,
+        "avg": "http://p0.meituan.net/600.600/deal/3de2dabc97b8fcc01f20c993a7501b98253762.jpg",
+        "web": "http://meituan.com/meishi/835915/"
+    },
+    {
+        "title": "福广汕头牛肉火锅城",
+        "mark": 0.0012588421052631578,
+        "avg": "http://p1.meituan.net/600.600/deal/a5b8b88e759e10d35400e626ee2d0716116182.jpg",
+        "web": "http://meituan.com/meishi/61683617/"
+    },
+    {
+        "title": "钦榕大酒楼（群升国际店）",
+        "mark": 0.0012586813186813187,
+        "avg": "http://p1.meituan.net/600.600/deal/ea3133eaf9374f7827ce1c17e443492e136001.jpg",
+        "web": "http://meituan.com/meishi/1875449/"
+    },
+    {
+        "title": "大宅门市井火锅（三坊七巷店）",
+        "mark": 0.00123755,
+        "avg": "https://img.meituan.net/180.180/msmerchant/0a5a0cb26df72923c3bb63f6c6060a456796580.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/178067925/"
+    },
+    {
+        "title": "湾边河鲜第一家",
+        "mark": 0.0011888311688311689,
+        "avg": "http://p1.meituan.net/600.600/poi/df7d7c8e295bee3131935f1968b24d61135168.jpg",
+        "web": "http://meituan.com/meishi/41217879/"
+    },
+    {
+        "title": "印咖啡",
+        "mark": 0.0011790697674418605,
+        "avg": "http://p1.meituan.net/600.600/xianfu/46da374d867e83ebaee93761b23384e949152.jpg",
+        "web": "http://meituan.com/meishi/5263950/"
+    },
+    {
+        "title": "皇牛阁潮汕牛肉火锅（仓山店）",
+        "mark": 0.001123079365079365,
+        "avg": "http://p0.meituan.net/600.600/mogu/9e987f2f0f58df08666538795465ec4387295.jpg",
+        "web": "http://meituan.com/meishi/6754500/"
+    },
+    {
+        "title": "卓越大酒店中餐部",
+        "mark": 0.0011183098591549295,
+        "avg": "http://p1.meituan.net/600.600/poi/a14cfbf8e266c3bd2de5f210e484e40a77824.jpg",
+        "web": "http://meituan.com/meishi/5119607/"
+    },
+    {
+        "title": "全牛宴（桔园二路店）",
+        "mark": 0.0011066666666666666,
+        "avg": "http://p1.meituan.net/600.600/deal/__48524865__7464994.jpg",
+        "web": "http://meituan.com/meishi/4757713/"
+    },
+    {
+        "title": "祥广记（世欧王庄店）",
+        "mark": 0.0011066666666666666,
+        "avg": "http://p1.meituan.net/600.600/mogu/566050dbfd87b91f827e09e0147ad55971294.jpg",
+        "web": "http://meituan.com/meishi/42978722/"
+    },
+    {
+        "title": "欧贝拉手工烘焙（后埔街店）",
+        "mark": 0.001106574074074074,
+        "avg": "https://img.meituan.net/180.180/msmerchant/3ed22bf99ec5c63d8fd40d91756e9039170079.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/158735758/"
+    },
+    {
+        "title": "牛辣牛肉火锅（斗池店）",
+        "mark": 0.0010485102040816326,
+        "avg": "https://img.meituan.net/600.600/msmerchant/312dee59c1751c88ca263d3244b664a62849982.jpg",
+        "web": "http://meituan.com/meishi/50946273/"
+    },
+    {
+        "title": "鲤升源·成都印象",
+        "mark": 0.001034676923076923,
+        "avg": "http://p0.meituan.net/180.180/mogu/9b04e5df46a598a106de48b533b371eb243640.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/158701599/"
+    },
+    {
+        "title": "岚居酒屋（仓山万达店）",
+        "mark": 0.0010278181818181818,
+        "avg": "https://img.meituan.net/600.600/msmerchant/203d8c021e72f4c9f8cdfe6b75a0a6b4135931.jpg",
+        "web": "http://meituan.com/meishi/42056704/"
+    },
+    {
+        "title": "源益养生宝典",
+        "mark": 0.00094425,
+        "avg": "http://p0.meituan.net/600.600/deal/__28712208__5250807.jpg",
+        "web": "http://meituan.com/meishi/2442280/"
+    },
+    {
+        "title": "萨贝尔意式餐厅（奥体店）",
+        "mark": 0.0009310344827586207,
+        "avg": "http://p0.meituan.net/600.600/mogu/b55dbd7ba6031de9592a8bbc0200f07a85037.jpg",
+        "web": "http://meituan.com/meishi/72787120/"
+    },
+    {
+        "title": "鱼旨寿司（红星店）",
+        "mark": 0.0009112903225806452,
+        "avg": "https://img.meituan.net/600.600/msmerchant/002461629f29ae8e0b27581390a2fa3272054.jpg",
+        "web": "http://meituan.com/meishi/65971848/"
+    },
+    {
+        "title": "普利欧法式生日蛋糕（宝龙店）",
+        "mark": 0.0008805555555555555,
+        "avg": "http://p0.meituan.net/600.600/mogu/af88fbed2636009a7eb5f7b3b89f27cb127833.jpg",
+        "web": "http://meituan.com/meishi/99175833/"
+    },
+    {
+        "title": "坊巷人家",
+        "mark": 0.000831578947368421,
+        "avg": "http://p1.meituan.net/600.600/deal/7ef544bb307ca651ed26f7d26bdff3f9319539.jpg",
+        "web": "http://meituan.com/meishi/4547039/"
+    },
+    {
+        "title": "富豪酒家（正大广场店）",
+        "mark": 0.0008260000000000001,
+        "avg": "https://img.meituan.net/600.600/msmerchant/f416f8a05d4fabdd1dde67b52efef23b380269.jpg",
+        "web": "http://meituan.com/meishi/1458219/"
+    },
+    {
+        "title": "咖喱小栈（万象城店）",
+        "mark": 0.0008139444444444445,
+        "avg": "https://img.meituan.net/600.600/msmerchant/dd1cbe9520d99286a3d71fb7a1808e7e64601.jpg",
+        "web": "http://meituan.com/meishi/68824294/"
+    },
+    {
+        "title": "味冠1912海鲜楼",
+        "mark": 0.0007993814432989691,
+        "avg": "http://p1.meituan.net/600.600/deal/__11785452__3339404.jpg",
+        "web": "http://meituan.com/meishi/1876174/"
+    },
+    {
+        "title": "元气屋日本料理",
+        "mark": 0.0007312075471698113,
+        "avg": "http://p1.meituan.net/600.600/mogu/f845c84509d9cb28185bcb181d118a1916249.png",
+        "web": "http://meituan.com/meishi/42786268/"
+    },
+    {
+        "title": "维恩时光餐厅",
+        "mark": 0.0007179710144927537,
+        "avg": "http://p0.meituan.net/600.600/deal/08341d14de29d8674bb248a26321b5bb72082.jpg",
+        "web": "http://meituan.com/meishi/41084592/"
+    },
+    {
+        "title": "海悦美食广场",
+        "mark": 0.0006724637681159419,
+        "avg": "http://p1.meituan.net/600.600/deal/58da78e3a5286900010dc6b35f0820d3291783.jpg",
+        "web": "http://meituan.com/meishi/6059814/"
+    },
+    {
+        "title": "古典玫瑰园（三坊七巷店）",
+        "mark": 0.0006197727272727273,
+        "avg": "https://img.meituan.net/600.600/msmerchant/8b6fa1025da3670c533a31896dd6209d2370873.jpg",
+        "web": "http://meituan.com/meishi/50831987/"
+    },
+    {
+        "title": "森林公园自由人BBQ烧烤乐园",
+        "mark": 0.0006008709677419355,
+        "avg": "http://p0.meituan.net/600.600/mogu/87dbdf450a01f0d422a685c4af1e4ec4261473.jpg",
+        "web": "http://meituan.com/meishi/92697/"
+    },
+    {
+        "title": "潮汕牛肉火锅（白龙路店）",
+        "mark": 0.00059508,
+        "avg": "http://p1.meituan.net/600.600/deal/f521b74e1725a2b6efa3ac985bfcea15105056.jpg",
+        "web": "http://meituan.com/meishi/41160119/"
+    },
+    {
+        "title": "灰太狼烤羊腿（学生街店）",
+        "mark": 0.0005873975903614457,
+        "avg": "http://p0.meituan.net/600.600/mogu/640c3590001828ad6b139d58adc9b9ce403620.jpg",
+        "web": "http://meituan.com/meishi/2552431/"
+    },
+    {
+        "title": "红双囍宴席厅（五四北泰禾店）",
+        "mark": 0.0005865591397849463,
+        "avg": "http://p1.meituan.net/600.600/deal/a3a63271aada183c8030686ddb83a358327996.jpg",
+        "web": "http://meituan.com/meishi/6430890/"
+    },
+    {
+        "title": "百味记小郡肝砂罐串串",
+        "mark": 0.000532051282051282,
+        "avg": "https://img.meituan.net/180.180/msmerchant/a462fdf8e49db94de13ac048db6fd450152856.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/169328666/"
+    },
+    {
+        "title": "星山妈妈手炭火烤肉专门店",
+        "mark": 0.000527,
+        "avg": "http://p0.meituan.net/600.600/apiback/59ff842e089f39d89139123de6b47bd3246881.jpg",
+        "web": "http://meituan.com/meishi/64910713/"
+    },
+    {
+        "title": "渔多多鱼庄",
+        "mark": 0.0004954444444444444,
+        "avg": "http://p1.meituan.net/600.600/deal/cd1a9b29013ccca295dff88569230a9c443779.jpg",
+        "web": "http://meituan.com/meishi/69621707/"
+    },
+    {
+        "title": "福州宴酒楼",
+        "mark": 0.0004851666666666666,
+        "avg": "http://p0.meituan.net/600.600/deal/5d573a271f3f70d0f33910a123753db3107559.jpg",
+        "web": "http://meituan.com/meishi/64519278/"
+    },
+    {
+        "title": "三迪华美达广场酒店·风粤轩中餐厅",
+        "mark": 0.00048038202247191014,
+        "avg": "http://p1.meituan.net/600.600/deal/f6c21603f38fbfd7a99b4a9bd608ff60142993.jpg",
+        "web": "http://meituan.com/meishi/50627621/"
+    },
+    {
+        "title": "梅邑生态园",
+        "mark": 0.00047584946236559143,
+        "avg": "http://p0.meituan.net/600.600/deal/__7194142__7443616.jpg",
+        "web": "http://meituan.com/meishi/2442317/"
+    },
+    {
+        "title": "品味江湖（梦山店）",
+        "mark": 0.00047058823529411766,
+        "avg": "http://p1.meituan.net/600.600/deal/1bdea6e49b9897a3800ada0d9dc58dd1266855.jpg",
+        "web": "http://meituan.com/meishi/2512503/"
+    },
+    {
+        "title": "宴东方大酒楼（火车南站店）",
+        "mark": 0.0004408955223880597,
+        "avg": "http://p1.meituan.net/600.600/deal/__32348515__5644202.jpg",
+        "web": "http://meituan.com/meishi/6873670/"
+    },
+    {
+        "title": "兄妹坊?专业炭火窑烤（前屿东路店）",
+        "mark": 0.00042278481012658224,
+        "avg": "https://img.meituan.net/600.600/msmerchant/d51e8fab6cf6e9f7b6e75f9e51e048ff23148.jpg",
+        "web": "http://meituan.com/meishi/5743999/"
+    },
+    {
+        "title": "牛脚尖（象园店）",
+        "mark": 0.0004152542372881356,
+        "avg": "https://img.meituan.net/600.600/msmerchant/95ea859da29a000e4bd43c7cec14137151139.jpg",
+        "web": "http://meituan.com/meishi/5806049/"
+    },
+    {
+        "title": "湘鄂老地方菜馆",
+        "mark": 0.0003955454545454545,
+        "avg": "http://p0.meituan.net/600.600/mogu/486dc8160c1848b5b55c2e880f52a1411032444.png",
+        "web": "http://meituan.com/meishi/4868925/"
+    },
+    {
+        "title": "储缘蛋糕（三叉街店）",
+        "mark": 0.000391,
+        "avg": "http://p1.meituan.net/600.600/bbia/d228f83919c8b6c45b30f9d8fe67c13e64914.jpg",
+        "web": "http://meituan.com/meishi/70182057/"
+    },
+    {
+        "title": "味名坊",
+        "mark": 0.00038678125,
+        "avg": "http://p1.meituan.net/600.600/deal/a5693831f249232ee0eb7cb36ec6b9f493103.jpg",
+        "web": "http://meituan.com/meishi/832854/"
+    },
+    {
+        "title": "人民公社",
+        "mark": 0.0003803703703703704,
+        "avg": "http://p1.meituan.net/600.600/bbia/75afa70bda94a832a624484d5709c0ab71856.jpg",
+        "web": "http://meituan.com/meishi/5695676/"
+    },
+    {
+        "title": "尚膳鼎.顺德民间菜（北梦山路店）",
+        "mark": 0.00035759302325581396,
+        "avg": "https://img.meituan.net/600.600/msmerchant/03489f6c7b51b77a2840bdb204f369f3732923.jpg",
+        "web": "http://meituan.com/meishi/51201172/"
+    },
+    {
+        "title": "麦大叔·福建客家菜（五四新华都店）",
+        "mark": 0.00034262962962962963,
+        "avg": "https://img.meituan.net/msmerchant/8e27ce0777edbfe834d4d693ebee5d0b1106501.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/163358382/"
+    },
+    {
+        "title": "阳澄湖渔夫大闸蟹（五里亭店）",
+        "mark": 0.0003233866666666667,
+        "avg": "http://p0.meituan.net/600.600/deal/fd940f0ef22bada722fc6c7ac36be05086025.jpg",
+        "web": "http://meituan.com/meishi/4213236/"
+    },
+    {
+        "title": "皇牛阁潮汕牛肉火锅（黎明店）",
+        "mark": 0.0002785714285714286,
+        "avg": "https://img.meituan.net/600.600/msmerchant/20c85569e499dbb6697b86c0a7340826173701.jpg",
+        "web": "http://meituan.com/meishi/73279529/"
+    },
+    {
+        "title": "好自在素菜馆",
+        "mark": 0.00026418918918918923,
+        "avg": "http://p0.meituan.net/600.600/dealwatera/6960819b5e8c88f670906f3f3dcd5d97113529.jpg",
+        "web": "http://meituan.com/meishi/1875014/"
+    },
+    {
+        "title": "福豚福居酒屋（井大路店）",
+        "mark": 0.0002584269662921348,
+        "avg": "https://img.meituan.net/600.600/msmerchant/021c316def6ff09ec477f756ef3d27bb203457.jpg",
+        "web": "http://meituan.com/meishi/60600980/"
+    },
+    {
+        "title": "学军阿土伯生蚝（台江总店）",
+        "mark": 0.0002578125,
+        "avg": "https://img.meituan.net/600.600/msmerchant/6acc92838d46ebd7eb696c4e6af9878f55925.jpg",
+        "web": "http://meituan.com/meishi/64978245/"
+    },
+    {
+        "title": "旺巴蜀小郡肝火锅串串香",
+        "mark": 0.00024636764705882356,
+        "avg": "http://p0.meituan.net/180.180/deal/2c8cd7bccb5b5d50ab37ca1536cfa1981143796.png@600w_600h_1l",
+        "web": "http://meituan.com/meishi/182028720/"
+    },
+    {
+        "title": "我在咖啡（华林店）",
+        "mark": 0.00023673333333333333,
+        "avg": "https://img.meituan.net/600.600/msmerchant/f17a5b4b703cdb70818e4e3c451ba2fd178766.jpg",
+        "web": "http://meituan.com/meishi/67688838/"
+    },
+    {
+        "title": "兰亭序大排档",
+        "mark": 0.0002111111111111111,
+        "avg": "http://p0.meituan.net/600.600/deal/a59d250f3e8666e7b2a8769436420037265832.jpg",
+        "web": "http://meituan.com/meishi/72049638/"
+    },
+    {
+        "title": "日日鲜866茶餐厅",
+        "mark": 0.00020657971014492754,
+        "avg": "http://qcloud.dpfile.com/pc/TyQIiA0rNe9Azu4L3h6OlUhpOtiToBiWYd72SOPsxkfVaRk5E-Xc652kVWtTx_SfmXKqvF8xz-Pgbz9r8ffpSA.jpg",
+        "web": "http://meituan.com/meishi/195129031/"
+    },
+    {
+        "title": "坛南湾经济大排档",
+        "mark": 0.00020507999999999998,
+        "avg": "http://p1.meituan.net/600.600/deal/8501f003a1fe2d5a53b71f6833361a90108038.jpg",
+        "web": "http://meituan.com/meishi/42956896/"
+    },
+    {
+        "title": "合口味汕头牛肉火锅（大坪路店）",
+        "mark": 0.00019203571428571428,
+        "avg": "http://p1.meituan.net/600.600/mogu/e4afa0ba773b135758a2fdc44a91684d50596.jpg",
+        "web": "http://meituan.com/meishi/42433584/"
+    },
+    {
+        "title": "HI CAKE·亲子diy蛋糕私人订制",
+        "mark": 0.00019099999999999998,
+        "avg": "https://img.meituan.net/600.600/msmerchant/01d07e48cd16049f9fbbb169bf032cec1358138.jpg",
+        "web": "http://meituan.com/meishi/41562300/"
+    },
+    {
+        "title": "井榕酒楼●生态闽菜（排尾路店）",
+        "mark": 0.00018775510204081632,
+        "avg": "https://img.meituan.net/600.600/msmerchant/e6694f09f183a56973999a3a50015fd6783072.jpg",
+        "web": "http://meituan.com/meishi/834637/"
+    },
+    {
+        "title": "伍月烘焙May Cake",
+        "mark": 0.00018365384615384614,
+        "avg": "http://p1.meituan.net/180.180/deal/f975846847486cff326a9a416e8fb36f102395.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/192244360/"
+    },
+    {
+        "title": "一品粥（六一环岛中城名仕汇店）",
+        "mark": 0.00016212962962962964,
+        "avg": "http://p0.meituan.net/600.600/poi/ab216b90a97b273f7da79e9138dc11b053248.jpg",
+        "web": "http://meituan.com/meishi/1876313/"
+    },
+    {
+        "title": "福宁老家·霞浦海鲜（五一店）",
+        "mark": 0.00014074074074074076,
+        "avg": "http://p1.meituan.net/600.600/deal/e2bfb96f9ced793e9aca75567a7bb78a39520.jpg",
+        "web": "http://meituan.com/meishi/42024896/"
+    },
+    {
+        "title": "糕小姐",
+        "mark": 0.0001209,
+        "avg": "http://p0.meituan.net/600.600/deal/362573aa8e2a3f5f6a7b84752bbde5c3178860.jpg",
+        "web": "http://meituan.com/meishi/40469548/"
+    },
+    {
+        "title": "中山日本创作料理",
+        "mark": 0.00010646464646464648,
+        "avg": "https://img.meituan.net/600.600/msmerchant/b7b0dc747fd283be1a094879acc5954614425.jpg",
+        "web": "http://meituan.com/meishi/6317104/"
+    },
+    {
+        "title": "发坤老饭店",
+        "mark": 0.00010508,
+        "avg": "http://p0.meituan.net/600.600/mogu/b33d121a11b7e3177e29e243ff156016619915.jpg",
+        "web": "http://meituan.com/meishi/2657541/"
+    },
+    {
+        "title": "食中福大酒楼（鼓山店）",
+        "mark": 0.00010062068965517242,
+        "avg": "http://p1.meituan.net/600.600/mogu/b62e3c7e3e72abd7a4e0713fdfcbe978276291.jpg",
+        "web": "http://meituan.com/meishi/1563668/"
+    },
+    {
+        "title": "禄合門美蛙火锅（福州店）",
+        "mark": 0.00009930232558139536,
+        "avg": "https://img.meituan.net/msmerchant/a531119abeba5d4dbf1dd3cabb791e0c215029.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/194592288/"
+    },
+    {
+        "title": "开蚝屋（台江万达店）",
+        "mark": 0.00009321568627450982,
+        "avg": "https://img.meituan.net/msmerchant/3ec0ae05574c174d9163a724083fa41697885.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/524750548/"
+    },
+    {
+        "title": "EaseDay 壹直咖啡（三坊七巷店）",
+        "mark": 0.00007879518072289156,
+        "avg": "https://img.meituan.net/600.600/msmerchant/fd7930033b126a98d9440dbb73e409172062722.jpg",
+        "web": "http://meituan.com/meishi/73470105/"
+    },
+    {
+        "title": "鲜猫海鲜饭（东二环泰禾店）",
+        "mark": 0.0000761904761904762,
+        "avg": "https://img.meituan.net/180.180/msmerchant/40d71219ff86b9cc754284aa8de7e59a100093.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/193379693/"
+    },
+    {
+        "title": "moorii陌里咖啡餐厅",
+        "mark": 0.000053125,
+        "avg": "http://p1.meituan.net/600.600/dpmerchantalbum/00505fe3d435915e79a55595ccf43a2e140067.jpg",
+        "web": "http://meituan.com/meishi/5290395/"
+    },
+    {
+        "title": "福州世茂洲际酒店·大堂酒廊",
+        "mark": 0.000048351648351648355,
+        "avg": "http://p1.meituan.net/600.600/mogu/62dea5d056779f524e397b754d736f33291031.jpg",
+        "web": "http://meituan.com/meishi/4098476/"
+    },
+    {
+        "title": "福聚来海鲜吧",
+        "mark": 0.00004705882352941176,
+        "avg": "http://p0.meituan.net/600.600/mogu/c3af99525118d8fcd0a77841cb091b6968913.jpg",
+        "web": "http://meituan.com/meishi/6824002/"
+    },
+    {
+        "title": "聚鲜园（南平西路店）",
+        "mark": 0.00004118987341772152,
+        "avg": "http://p1.meituan.net/600.600/deal/ca0346c2665bd8af7dd17c6e3e60834a103771.jpg",
+        "web": "http://meituan.com/meishi/40898708/"
+    },
+    {
+        "title": "晋蚝门·高压锅生蚝（达明店）",
+        "mark": 0.0000390625,
+        "avg": "http://p0.meituan.net/180.180/deal/974c54010fe73874dd3b5193c05c2613100625.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/195042810/"
+    },
+    {
+        "title": "再叙老街烧烤（晋安店）",
+        "mark": 0.00003809523809523809,
+        "avg": "https://img.meituan.net/msmerchant/7882632a4d21f419d21784ddfdca5a0c63765.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/770910044/"
+    },
+    {
+        "title": "映莲居餐饮",
+        "mark": 0.000036950819672131144,
+        "avg": "http://p0.meituan.net/600.600/deal/671381b0fdeebecd159c23796e488efa98833.jpg",
+        "web": "http://meituan.com/meishi/77912571/"
+    },
+    {
+        "title": "哈尔滨小味串店（宝龙店）",
+        "mark": 0.000028222222222222223,
+        "avg": "https://img.meituan.net/msmerchant/989fdc11e30120d13d01efbbe05c015266271.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/194404889/"
+    },
+    {
+        "title": "香米拉温泉酒店福满楼中餐厅",
+        "mark": 0.000028,
+        "avg": "http://p1.meituan.net/600.600/mogu/0554e6509c930b7585e73222f5c88c6a508377.jpg",
+        "web": "http://meituan.com/meishi/41680991/"
+    },
+    {
+        "title": "帅帝音乐餐吧",
+        "mark": 0.00002701754385964912,
+        "avg": "https://img.meituan.net/msmerchant/aebeb39d0296b028b7478b4ce0ac4f5983685.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/774869179/"
+    },
+    {
+        "title": "私享家咖啡",
+        "mark": 0.000024137931034482758,
+        "avg": "http://p0.meituan.net/600.600/deal/4d55b53eab4b607624dc322ad40c1ce1145838.jpg",
+        "web": "http://meituan.com/meishi/5531058/"
+    },
+    {
+        "title": "香米拉嘉品轩自助餐厅",
+        "mark": 0.0000228,
+        "avg": "https://img.meituan.net/600.600/msmerchant/b631f8f63b954e3746c758021b7ada872700396.jpg",
+        "web": "http://meituan.com/meishi/6167155/"
+    },
+    {
+        "title": "明记客家牛肉（奎桥店）",
+        "mark": 0.000022781818181818182,
+        "avg": "https://img.meituan.net/600.600/msmerchant/04f53c40017c241c329a7d86c0a1b87c4704086.jpg",
+        "web": "http://meituan.com/meishi/61658316/"
+    },
+    {
+        "title": "澳泽烘焙（龙山店）",
+        "mark": 0.000022,
+        "avg": "https://img.meituan.net/180.180/msmerchant/4e60324cea2e20a4f4a462144801762d3631767.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/159073156/"
+    },
+    {
+        "title": "佰纳汇HIFI音乐世界精酿啤酒吧",
+        "mark": 0.00002165432098765432,
+        "avg": "https://img.meituan.net/msmerchant/50e8d1ba2057456af8a79693a657c8122040229.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/192925528/"
+    },
+    {
+        "title": "中海源",
+        "mark": 0.000021095890410958904,
+        "avg": "http://p0.meituan.net/600.600/mogu/6907ac20f3b82fee7a94dd587de671c8438666.jpg",
+        "web": "http://meituan.com/meishi/40967078/"
+    },
+    {
+        "title": "友口福",
+        "mark": 0.0000209,
+        "avg": "http://p0.meituan.net/600.600/mogu/90e482902d1963e017301ed3ee70cdb563233.jpg",
+        "web": "http://meituan.com/meishi/4075257/"
+    },
+    {
+        "title": "恩盛隆永泰土菜馆",
+        "mark": 0.00001962025316455696,
+        "avg": "https://img.meituan.net/msmerchant/1f954ed1f75d3a6a45fa512bcf99e979402172.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/898677304/"
+    },
+    {
+        "title": "别有天吴家私房菜",
+        "mark": 0.000018659574468085107,
+        "avg": "http://p1.meituan.net/600.600/poi/61587c59d807aa9574df83bd8c8d18e936864.jpg",
+        "web": "http://meituan.com/meishi/830167/"
+    },
+    {
+        "title": "CCsweety·甜品工作室",
+        "mark": 0.000017906976744186045,
+        "avg": "https://img.meituan.net/180.180/msmerchant/ebd86e1e9ff56ca4f67b6f6cc3350002652653.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/193320284/"
+    },
+    {
+        "title": "盛港海鲜吧（五四路店）",
+        "mark": 0.000013340425531914892,
+        "avg": "http://p0.meituan.net/600.600/bbia/1e65585edbc5cbdb0a83ee5d17da2af8219551.jpg",
+        "web": "http://meituan.com/meishi/1877068/"
+    },
+    {
+        "title": "闽鲜汇小马酒楼",
+        "mark": 0.000010771428571428572,
+        "avg": "https://img.meituan.net/600.600/msmerchant/47714412034cfaab666e17b01401046f93840.jpg",
+        "web": "http://meituan.com/meishi/2761115/"
+    },
+    {
+        "title": "仙溪老谢土菜馆",
+        "mark": 0.000010188679245283019,
+        "avg": "https://img.meituan.net/600.600/msmerchant/8d1372300232699b2b64c147075af20733838.jpg",
+        "web": "http://meituan.com/meishi/51710139/"
+    },
+    {
+        "title": "鳗匠 活鳗现烤专门馆（万象里店）",
+        "mark": 0.000009666666666666667,
+        "avg": "https://img.meituan.net/msmerchant/fbcec352127749210c51a95c532eb26c170658.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/190464555/"
+    },
+    {
+        "title": "名蚝烧烤（岳峰店）",
+        "mark": 0.0000040317460317460316,
+        "avg": "http://p1.meituan.net/600.600/deal/abc4c046c0e21950fcbb42d8108f3321113581.jpg",
+        "web": "http://meituan.com/meishi/42088239/"
+    },
+    {
+        "title": "回魏大牌档（鸿博店）",
+        "mark": 0.0000035277777777777775,
+        "avg": "https://img.meituan.net/180.180/msmerchant/c26bb3cc38f60b202b9ecc82f586ab1b2431887.jpg@600w_600h_1l",
+        "web": "http://meituan.com/meishi/192043341/"
+    }
+]

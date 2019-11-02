@@ -1,0 +1,1552 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta http-equiv="content-language" content="en-gb">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <link rel="stylesheet" type="text/css" href="vendor/style.css" />
+  <link rel="icon" type="image/x-icon" href="vendor/favicon.ico">
+  <link rel="stylesheet" href="vendor/leaflet.css" crossorigin="" />
+  <link rel="stylesheet" href="vendor/chartist.min.css">
+  <!-- Begin Jekyll SEO tag v2.3.0 -->
+  <title>福州商圈测评·2019软件工程实践</title>
+  <meta property="og:title" content="GitHub Octoverse 2017" />
+  <meta property="og:locale" content="en_US" />
+  <meta name="description" content="Highlights from the last twelve months" />
+  <meta property="og:description" content="Highlights from the last twelve months" />
+  <link rel="canonical" href="https://octoverse.github.com/" />
+  <meta property="og:url" content="https://octoverse.github.com/" />
+  <meta property="og:site_name" content="GitHub Octoverse 2017" />
+  <meta property="og:image" content="https://octoverse.github.com/assets/img/octoverse-socialCard.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@github" />
+  <script type="application/ld+json">
+{"name":"福州商圈测评","description":"","author":null,"@type":"WebSite","url":"","image":"","publisher":null,"headline":"GitHub Octoverse 2017","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
+  <!-- End Jekyll SEO tag -->
+
+  <link type="application/atom+xml" rel="alternate" href="vendor/feed.xml" title="福州商圈测评" />
+</head>
+
+
+<body>
+  <div class="Header-container container-xxl mx-auto position-relative">
+    <header
+      class="Universe-header container-xxl mx-auto d-flex flex-justify-between flex-items-center position-fixed top-0 right-0 left-0 px-4 px-md-3 py-3 py-md-5">
+      <img class="Universe-logo" src="vendor/GitHub-Universe.svg" alt="GitHub Universe Logomark" />
+      <h1 class="d-none">GitHub</h1>
+      <img class="GitHub-logo" src="vendor/GitHub-wordmark.svg" style="margin-right: -6px;" alt="GitHub" />
+    </header>
+  </div>
+
+  <!--// "The State of the Octoverse" //-->
+  <div class="Hero height-md-fullScreen overflow-hidden bg-darkness">
+    <div class="position-relative container-xxl mx-auto px-4 px-md-6 pt-6 pt-md-0">
+      <h1 class="Universe-masthead h">
+        <span class="d-none d-md-block position-absolute right-0" style="top: 19%; margin-right: -0.3em;">
+          <span class="d-block" style="margin-left: -0.15em;">Octo</span><span class="d-block text-right"
+            style="line-height: 100px; margin-left: -0.4em;">verse</span>
+        </span>
+        <span class="position-absolute left-0" style="top: 40%; margin-left: -0.1em;">2017</span>
+      </h1>
+
+      <div class="position-md-absolute top-0 bottom-0 right-0 mr-md-6">
+        <div class="vr--spectrum position-md-absolute top-0 bottom-0 right-0 mr-md-6"></div>
+      </div>
+      <div class="bg-vrs--interior--dark d-none d-md-block position-md-absolute top-0 right-0 bottom-0 left-0"
+        style="margin: 0 80px">
+        <svg class="rellax bg-vrs-star bg-vrs-star--2 position-absolute" style="bottom: 20%; margin-left: -0.35em;"
+          data-rellax-speed="2" width="11" height="11" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
+          <title>Star Copy</title>
+          <g fill="none" fill-rule="evenodd">
+            <path
+              d="M8.878 15C7.855 10.978 6.978 10.064 3 8.878 7.022 7.855 7.936 6.978 9.123 3c1.022 4.022 1.9 4.936 5.877 6.123-4.022 1.022-4.936 1.9-6.122 5.877"
+              fill="#24292E" />
+            <path
+              d="M8.878 15C7.855 10.978 6.978 10.064 3 8.878 7.022 7.855 7.936 6.978 9.123 3c1.022 4.022 1.9 4.936 5.877 6.123-4.022 1.022-4.936 1.9-6.122 5.877z"
+              stroke="#F79533" stroke-width="5.866" fill="#F79533" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+        </svg>
+
+        <svg class="rellax bg-vrs-star bg-vrs-star--3 position-absolute" style="top: 10%;" data-rellax-speed="2"
+          width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
+          <title>Star Copy</title>
+          <g fill="none" fill-rule="evenodd">
+            <path
+              d="M8.878 15C7.855 10.978 6.978 10.064 3 8.878 7.022 7.855 7.936 6.978 9.123 3c1.022 4.022 1.9 4.936 5.877 6.123-4.022 1.022-4.936 1.9-6.122 5.877"
+              fill="#24292E" />
+            <path
+              d="M8.878 15C7.855 10.978 6.978 10.064 3 8.878 7.022 7.855 7.936 6.978 9.123 3c1.022 4.022 1.9 4.936 5.877 6.123-4.022 1.022-4.936 1.9-6.122 5.877z"
+              stroke="#586069" stroke-width="5.866" fill="#586069" stroke-linecap="round" stroke-linejoin="round" />
+          </g>
+        </svg>
+
+      </div>
+
+      <!--// Globe //-->
+      <div class="Earth">
+        <div class="Earth-floaties position-absolute top-0 right-0 bottom-0 left-0">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+
+        <img src="vendor/globe.svg" class="width-full" />
+      </div>
+
+      <div class="position-relative mx-md-6">
+        <!--// SPACER //-->
+        <div class="py-6 py-md-80px mb-5 mb-md-0"></div>
+
+        <div class="Logo-waypoint d-md-flex flex-wrap position-relative">
+          <!--// ROW //-->
+          <div class="col-md-1"></div>
+          <div class="col-md-6 col-lg-4 text-gray-light">
+            <h2 class="f0 h lh-condensed text-white mb-2">福州商圈测评</h2>
+            <p>商业，是一座城市繁荣的风向标，商圈的演进，是一座城市发展的缩影。那些分布于城市各个区域的商业群落，形成一座城市独有的商业生态，它们记录下这座城市发生过的大事件，吸引城市资源向它们聚集，见证城市发展的变迁。
+              商圈见证城市蓬勃发展的生机活力，福州商业不断迭代更新，从最早的东街口商业中心到现如今的万宝商圈，走向国际化的福州已然能为市民提供更具多样性的休闲娱乐场所。
+            </p>
+            <p>商圈见证城市时代的变迁，福州商业不断迭代更新，从最早的东街口商业中心到现如今的万宝商圈，走向国际化的福州已然能为市民提供更具多样性的休闲娱乐场所。</p>
+
+          </div>
+
+          <!--// SPACER //-->
+          <div class="col-md-12 py-6 my-md-6"></div>
+
+          <div class="vr--spectrum position-md-absolute top-0 bottom-0 left-0"></div>
+        </div>
+      </div>
+
+      <div class="px-2 px-md-6">
+        <nav class="Nav text-bold text-white py-6">
+          <ol>
+            <li class="Nav-build h lh-condensed"><a href="#build"
+                class="js-smoothscroll-anchor d-inline-block text-spectrum--y">食物</a></li>
+            <li class="Nav-work h lh-condensed"><a href="#work"
+                class="js-smoothscroll-anchor d-inline-block text-spectrum--m">衣服</a></li>
+            <li class="Nav-learn h lh-condensed"><a href="#learn"
+                class="js-smoothscroll-anchor d-inline-block text-spectrum--k">收集</a></li>
+            <li class="Nav-connect h lh-condensed"><a href="#connect"
+                class="js-smoothscroll-anchor d-inline-block text-spectrum--c">总结</a></li>
+          </ol>
+        </nav>
+      </div>
+
+      <div class="position-relative">
+        <!--// SPACER //-->
+        <div class="py-md-6"></div>
+
+        <div class="vr--spectrum position-md-absolute top-0 bottom-0 left-0 ml-md-6"></div>
+
+        <!--// SPACER //-->
+        <div class="py-6 my-md-6"></div>
+
+        <!--// SPACER //-->
+        <div class="py-6"></div>
+      </div>
+    </div>
+
+  </div>
+
+  <div id="body" class="Body overflow-hidden">
+
+    <div class="container-xxl mx-auto">
+      <div id="intro" class="Nav-waypoint">
+        <!--// "Ten years of merging" //-->
+        <div class="bg-white bg-vrs px-4 px-md-6">
+          <div class="bg-vrs--interior py-6 mx-md-6">
+            <!--// SPACER //-->
+            <div id="mapFocusTop" class="py-md-6 my-md-6"></div>
+
+            <div class="d-md-flex flex-wrap position-relative py-6 my-md-6">
+              <svg class="rellax bg-vrs-star bg-vrs-star--2 position-absolute" style="top: -2.5%; margin-left: -0.65em;"
+                data-rellax-speed="2" width="23" height="23" viewBox="0 0 23 23" xmlns="http://www.w3.org/2000/svg">
+                <title>star</title>
+                <defs>
+                  <filter x="-75%" y="-58.3%" width="250%" height="250%" filterUnits="objectBoundingBox" id="a">
+                    <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1" />
+                    <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1" />
+                    <feColorMatrix values="0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0.5 0"
+                      in="shadowBlurOuter1" result="shadowMatrixOuter1" />
+                    <feMerge>
+                      <feMergeNode in="shadowMatrixOuter1" />
+                      <feMergeNode in="SourceGraphic" />
+                    </feMerge>
+                  </filter>
+                </defs>
+                <g filter="url(#a)" transform="translate(5 3)" fill="none" fill-rule="evenodd">
+                  <path
+                    d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137"
+                    fill="#E1E4E8" />
+                  <path
+                    d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137z"
+                    stroke="#5073B8" stroke-width="3.52" fill="#5073B8" stroke-linecap="round"
+                    stroke-linejoin="round" />
+                </g>
+              </svg>
+
+
+              <!--// ROW //-->
+              <div class="col-md-5 col-lg-4 position-relative pl-md-6 pb-md-6 mb-6">
+                <h2 class="h1 h lh-condensed mb-2">福州有什么商圈的</h2>
+                <!-- <p class="text-gray">日前，福建省商务厅对拟确定的由“十二个一百”组成的全省商务发展主体工程进行公示。在百个重点商圈中，
+                  福州被列入的有东街口商圈、万宝商圈、东二环泰禾商圈、红星爱琴海商圈、王庄商圈、金融街万达商圈、五四北泰禾商圈。福州这7大商圈未来将得到重点培育提升</p> -->
+                <svg class="rellax bg-vrs-star bg-vrs-star--1 position-absolute"
+                  style="bottom: 30%; margin-left: -1.47em;" data-rellax-speed="2" width="50" height="50"
+                  viewBox="0 0 23 23" xmlns="http://www.w3.org/2000/svg">
+                  <title>star</title>
+                  <defs>
+                    <filter x="-75%" y="-58.3%" width="250%" height="250%" filterUnits="objectBoundingBox" id="a">
+                      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1" />
+                      <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1" />
+                      <feColorMatrix values="0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0.5 0"
+                        in="shadowBlurOuter1" result="shadowMatrixOuter1" />
+                      <feMerge>
+                        <feMergeNode in="shadowMatrixOuter1" />
+                        <feMergeNode in="SourceGraphic" />
+                      </feMerge>
+                    </filter>
+                  </defs>
+                  <g filter="url(#a)" transform="translate(5 3)" fill="none" fill-rule="evenodd">
+                    <path
+                      d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137"
+                      fill="#E1E4E8" />
+                    <path
+                      d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137z"
+                      stroke="#F37055" stroke-width="3.52" fill="#F37055" stroke-linecap="round"
+                      stroke-linejoin="round" />
+                  </g>
+                </svg>
+
+              </div>
+
+              <div class="col-lg-3"></div>
+
+              <div class="col-md-7 col-lg-3 pt-md-6 mt-md-6 text-center text-md-left">
+                <!--// SPACER //-->
+                <div class="py-md-6 my-6"></div>
+                <span class="BigNum-decimal d-block text-bold text-md-right text-spectrum--y">7&nbsp;&nbsp;&nbsp;</span>
+
+                <div class="BigNum-context--24Million BigNum-context--rotate text-md-right">
+                  <div class="BigNum-context-figure text-bold">个</div>
+                  <div class="text-uppercase mr-md-1">商圈数量</div>
+                </div>
+              </div>
+
+              <div class="col-lg-1"></div>
+
+              <!--// ROW //-->
+              <div class="col-md-1 col-lg-2"></div>
+              <div class="col-md-5 col-lg-4 col-xl-3 my-6 text-center text-md-left">
+                <span class="BigNum-decimal d-block text-bold text-spectrum--m">10&nbsp;&nbsp;</span>
+                <div class="BigNum-context--1Point5Million BigNum-context--rotate">
+                  <div class="BigNum-context-figure text-bold">万人次</div>
+                  <div class="text-uppercase ml-md-1">客流量</div>
+                </div>
+              </div>
+              <div class="col-md-4 col-lg-5"></div>
+
+              <!--// ROW //-->
+              <div class="col-md-5 col-lg-7"></div>
+              <div class="col-md-7 col-lg-3 my-6 text-center text-md-left">
+                <span class="BigNum-decimal d-block text-bold text-md-right text-spectrum--k">1&nbsp;&nbsp;&nbsp;</span>
+                <div class="BigNum-context--67Million BigNum-context--rotate text-md-right">
+                  <div class="BigNum-context-figure text-bold">亿元</div>
+                  <div class="text-uppercase mr-1">营业额</div>
+                </div>
+              </div>
+            </div>
+
+            <div class="py-md-80px"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="Map-title container-xxl mx-auto d-md-flex flex-wrap py-6">
+        <div class="col-md-6 col-lg-5 pl-4 pl-md-6 pt-6">
+          <div class="col-10 pl-md-6 ml-md-6">
+            <h3 class="f0 h text-bold lh-condensed mb-2">我们的生活离不开商圈</h3>
+            <p class="text-gray pr-lg-6">
+              家庭聚会人，出门下馆子，自然要选择一家饭店，哪个地方饭店多，那自然是商圈</p>
+            <p class="text-gray pr-lg-6">
+              出门买衣服，自然要看一下哪里有卖衣服，哪个地方服装店多，那自然是商圈</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--// "Everywhere you work" (MAP) //-->
+    <!-- <div id="map-sayhello" class="Map bg-white" data-geojson="continents" data-color="multiple">
+
+      <ul
+        class="Map-legend position-absolute top-0 right-0 col-12 col-md-6 col-lg-4 d-flex list-style-none text-gray f5">
+        <li class="col-3" style="border-color: #B9C7E3;">0 - 1M</li>
+        <li class="col-3" style="border-color: #738FC6;">1M - 3M</li>
+        <li class="col-3" style="border-color: #43619D;">3M - 5M</li>
+        <li class="col-3" style="border-color: #293B5E;">&gt; 5M</li>
+      </ul>
+    </div> -->
+    <br>
+    <br>
+    <br>
+
+    <div class="container-xxl mx-auto">
+      <!--// "BUILD" //-->
+      <div class="bg-white bg-vrs px-4 px-md-6">
+        <div class="bg-vrs--interior mx-md-6">
+          <!--// SPACER //-->
+          <div id="build" class="Nav-waypoint py-6 py-md-80px"></div>
+
+          <!--// "Build" header //-->
+          <div class="position-relative">
+            <svg class="rellax bg-vrs-star bg-vrs-star--3 position-absolute" style="top: 3.5%; margin-right: -0.95em;"
+              data-rellax-speed="2" width="30" height="30" viewBox="0 0 23 23" xmlns="http://www.w3.org/2000/svg">
+              <title>star</title>
+              <defs>
+                <filter x="-75%" y="-58.3%" width="250%" height="250%" filterUnits="objectBoundingBox" id="a">
+                  <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1" />
+                  <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1" />
+                  <feColorMatrix values="0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0.5 0"
+                    in="shadowBlurOuter1" result="shadowMatrixOuter1" />
+                  <feMerge>
+                    <feMergeNode in="shadowMatrixOuter1" />
+                    <feMergeNode in="SourceGraphic" />
+                  </feMerge>
+                </filter>
+              </defs>
+              <g filter="url(#a)" transform="translate(5 3)" fill="none" fill-rule="evenodd">
+                <path
+                  d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137"
+                  fill="#E1E4E8" />
+                <path
+                  d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137z"
+                  stroke="#F37055" stroke-width="3.52" fill="#F37055" stroke-linecap="round" stroke-linejoin="round" />
+              </g>
+            </svg>
+
+            <svg class="rellax bg-vrs-star bg-vrs-star--2 position-absolute" style="bottom: 2.5%; margin-left: -0.70em;"
+              data-rellax-speed="2" width="24" height="24" viewBox="0 0 23 23" xmlns="http://www.w3.org/2000/svg">
+              <title>star</title>
+              <defs>
+                <filter x="-75%" y="-58.3%" width="250%" height="250%" filterUnits="objectBoundingBox" id="a">
+                  <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1" />
+                  <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1" />
+                  <feColorMatrix values="0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0.5 0"
+                    in="shadowBlurOuter1" result="shadowMatrixOuter1" />
+                  <feMerge>
+                    <feMergeNode in="shadowMatrixOuter1" />
+                    <feMergeNode in="SourceGraphic" />
+                  </feMerge>
+                </filter>
+              </defs>
+              <g filter="url(#a)" transform="translate(5 3)" fill="none" fill-rule="evenodd">
+                <path
+                  d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137"
+                  fill="#E1E4E8" />
+                <path
+                  d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137z"
+                  stroke="#5073B8" stroke-width="3.52" fill="#5073B8" stroke-linecap="round" stroke-linejoin="round" />
+              </g>
+            </svg>
+
+
+            <div class="col-md-8 col-lg-6 text-center px-4 py-6 mx-auto">
+              <div class="vr bg-spectrum--y mx-auto my-6"></div>
+
+              <div class="py-6 my-6">
+                <div class="h2">01</div>
+                <h2 class="h0 text-spectrum--y lh-condensed">食物</h2>
+                <p class="text-gray col-sm-10 mx-auto">
+                  食物是指能够满足机体正常生理和生化能量需求，并能延续正常寿命的物质。但对于大多数人而言，食物不仅仅是食物，更是一种生活状态的体现。世界上有个各种各样的食物，每种食物都有自己独特的风味，而各地的食物又拥有着自己的味道。
+                </p>
+                <p class="text-gray col-sm-10 mx-auto">而对于福州而言，福州的食物拥有着属于自己的风味，也拥有着来自五湖四海的风味
+                </p>
+
+              </div>
+
+              <div class="vr bg-spectrum--y mx-auto my-6"></div>
+            </div>
+          </div>
+
+          <!--// SPACER //-->
+          <div class="py-md-80px my-6"></div>
+
+          <div class="position-relative overflow-hidden bg-white pt-6 pt-md-0">
+            <div class="px-4 py-md-80px m-md-6">
+              <div class="col-md-6 col-lg-4 position-md-absolute mt-md-6 ml-md-6">
+                <h3 class="h1 mb-2 lh-condensed">看看都有什么样的饭店</h3>
+
+              </div>
+            </div>
+            <ol
+              class="WordCloud d-md-flex flex-wrap flex-justify-around gutter-md f2 text-center text-md-left text-bold text-gray-light lh-condensed list-style-none mt-6 mt-md-0 px-4">
+              <li class="my-2"><a class="text-y-end"> 快餐</a></li>
+              <li class="my-2"><a class="text-y-start">便宜</a></li>
+              <li class="my-2"><a class="text-y-start">服务好</a></li>
+              <li class="my-2"><a class="text-y-end"></a></li>
+              <li class="my-2"><a class="text-y-start"></a></li>
+              <li class="my-2"><a class="text-y-start">免费WIFI</a></li>
+              <li class="my-2"><a class="text-y-end">有空调</a></li>
+              <li class="my-2"><a class="text-y-start">闽菜</a></li>
+              <li class="my-2"><a class="text-y-end"> </a></li>
+              <li class="my-2"><a class="text-y-end"> </a></li>
+              <li class="my-2"><a class="text-y-start">茶点</a></li>
+              <div class="d-none d-md-block col-md-8 col-lg-5" style="order: -1; height: 200px;"></div>
+            </ol>
+          </div>
+
+          <div class="bg-white bg-vrs px-4 px-md-6">
+            <div class="bg-vrs--interior py-6 mx-md-6">
+
+              <!--// SPACER //-->
+              <div class="py-6 py-md-80px"></div>
+
+              <div class="position-relative py-6 my-6">
+                <div class="col-md-6 col-lg-5 text-center mx-auto mb-6">
+                  <h3 class="f0 h mb-2 lh-condensed">看看那些好评的饭店</h3>
+                  <!-- <p class="text-gray">These are some of the most active organizations and projects by the number of unique
+                contributors, forks, and comments.</p> -->
+                </div>
+
+                <span class="bg-vrs-star bg-vrs-star--1 bg-vrs-star--md bg-vrs-star--y-start position-absolute"
+                  style="top: 50%;"></span>
+                <span class="bg-vrs-star bg-vrs-star--3 bg-vrs-star--md bg-vrs-star--k-start position-absolute"
+                  style="bottom: -10%;"></span>
+                <span
+                  class="bg-vrs-star bg-vrs-star--4 bg-vrs-star--md bg-vrs-star--y-end bg-vrs-star--rotate position-absolute"
+                  style="top: 0%;"></span>
+              </div>
+
+              <!--// REPOS LISTINGS //-->
+              <div class="d-lg-flex flex-wrap flex-justify-between gutter-lg-spacious mx-md-3">
+                <div class="col-lg-6 col-xl-5 mb-6">
+                  <h4 class="f1 h lh-condensed mb-4">人均消费小于50的饭店</h4>
+                  <ol class="list-style-none f5 f4-md text-uppercase text-break">
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/834173/" class="d-flex flex-items-center text-y-start">
+                        <img
+                          src="https://img.meituan.net/msmerchant/f6322c45851a0fd8dda54cbabf6fb4b4154814.jpg@600w_600h_1l"
+                          class="avatar" />
+                        <span class="col-7 mx-3">没牙伯花生汤店</span>
+                        <span class="flex-auto text-right">1</span>
+                      </a>
+                    </li>
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/165413701/" class="d-flex flex-items-center text-y-start">
+                        <img
+                          src="https://img.meituan.net/180.180/msmerchant/84778245a51aca9f76761e4d2252993c215881.jpg@600w_600h_1l"
+                          class="avatar" />
+                        <span class="col-7 mx-3">面包好了</span>
+                        <span class="flex-auto text-right">2</span>
+                      </a>
+                    </li>
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/189162839/" class="d-flex flex-items-center text-y-start">
+                        <img
+                          src="https://img.meituan.net/180.180/msmerchant/ee464d69921150b2dbc59786fb734c5c23438.jpg@600w_600h_1l"
+                          class="avatar" />
+                        <span class="col-7 mx-3">唐沫茶兮（仓山万达店）</span>
+                        <span class="flex-auto text-right">3</span>
+                      </a>
+                    </li>
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/67520183/" class="d-flex flex-items-center text-y-start">
+                        <img src="http://p0.meituan.net/600.600/mogu/3ff66cd82cece4de18c092a02b5234a4615007.jpg"
+                          class="avatar" />
+                        <span class="col-7 mx-3">晶榕茶饮</span>
+                        <span class="flex-auto text-right">4</span>
+                      </a>
+                    </li>
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/6736920/" class="d-flex flex-items-center text-y-start">
+                        <img src="https://img.meituan.net/600.600/msmerchant/dae9973d8fbc8f52db323ae678c23f3549334.jpg"
+                          class="avatar" />
+                        <span class="col-7 mx-3">85度C（新华都五四店）</span>
+                        <span class="flex-auto text-right">5</span>
+                      </a>
+                    </li>
+
+                  </ol>
+
+                </div>
+
+                <div class="col-lg-6 col-xl-5 pt-lg-6 mt-lg-6 mb-6">
+                  <!--// SPACER //-->
+                  <div class="py-lg-6"></div>
+
+                  <h4 class="f1 h lh-condensed mb-4">人均消费50-100的饭店</h4>
+                  <ol class="list-style-none f5 f4-md text-uppercase text-break">
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/2718043/" class="d-flex flex-items-center text-y-start">
+                        <img
+                          src="https://img.meituan.net/600.600/msmerchant/a56c4d4082a7b662f19c4b9a6eb56c622342599.jpg"
+                          class="avatar" />
+                        <span class="col-7 mx-3">必胜客（浦上万达店）</span>
+                        <span class="flex-auto text-right">1</span>
+                      </a>
+                    </li>
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/5528165/" class="d-flex flex-items-center text-y-start">
+                        <img src="http://p0.meituan.net/600.600/bbia/36f2252ec6e2ab8ac03395c5180f3c85387378.jpg"
+                          class="avatar" />
+                        <span class="col-7 mx-3">OK海鲜自助餐厅（五四北旗舰店）</span>
+                        <span class="flex-auto text-right">2</span>
+                      </a>
+                    </li>
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/832973/" class="d-flex flex-items-center text-y-start">
+                        <img src="https://img.meituan.net/600.600/msmerchant/2a2f5dad1fef25a7fb389288740f72f4459641.jpg"
+                          class="avatar" />
+                        <span class="col-7 mx-3">哈根达斯（福州东方店）</span>
+                        <span class="flex-auto text-right">3</span>
+                      </a>
+                    </li>
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/1552092/" class="d-flex flex-items-center text-y-start">
+                        <img src="https://img.meituan.net/600.600/msmerchant/64596310d0df965926e512f1a68b28fc313656.jpg"
+                          class="avatar" />
+                        <span class="col-7 mx-3">元祖食品（五四店）</span>
+                        <span class="flex-auto text-right">4</span>
+                      </a>
+                    </li>
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/195870940/" class="d-flex flex-items-center text-y-start">
+                        <img
+                          src="https://img.meituan.net/msmerchant/e0f67f38115865e56350dfdf1cfae1cf53226.jpg@600w_600h_1l"
+                          class="avatar" />
+                        <span class="col-7 mx-3">八滋味郭记养生鱼锅</span>
+                        <span class="flex-auto text-right">5</span>
+                      </a>
+                    </li>
+                  </ol>
+                </div>
+
+                <!--// SPACER //-->
+                <div class="col-lg-12 py-lg-4"></div>
+
+                <div class="col-lg-6 col-xl-5 mb-6">
+                  <h4 class="f1 h lh-condensed mb-4">人均消费100-200的饭店</h4>
+                  <ol class="list-style-none f5 f4-md text-uppercase text-break">
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/1505747/" class="d-flex flex-items-center text-y-end">
+                        <img src="https://img.meituan.net/600.600/msmerchant/2c8c54460e70ad85b902441ec8cec82e358322.jpg"
+                          class="avatar" />
+                        <span class="col-7 mx-3">雍和会海鲜姿造（三坊七巷店）</span>
+                        <span class="flex-auto text-right">1</span>
+                      </a>
+                    </li>
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/830524/" class="d-flex flex-items-center text-y-end">
+                        <img src="http://p0.meituan.net/600.600/deal/201210/23/013.jpg" class="avatar" />
+                        <span class="col-7 mx-3">丽景假日大酒店中餐厅</span>
+                        <span class="flex-auto text-right">2</span>
+                      </a>
+                    </li>
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/40585894/" class="d-flex flex-items-center text-y-end">
+                        <img src="https://img.meituan.net/600.600/msmerchant/154548a7a630745baff106c46b816b6b438563.jpg"
+                          class="avatar" />
+                        <span class="col-7 mx-3">太古汇港式鲜捞</span>
+                        <span class="flex-auto text-right">3</span>
+                      </a>
+                    </li>
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/6788952/" class="d-flex flex-items-center text-y-end">
+                        <img src="http://p1.meituan.net/600.600/deal/8bc6c2cfd99a50733f2cbb6582b55b3290097.jpg"
+                          class="avatar" />
+                        <span class="col-7 mx-3">闽江世纪金源会展中心大饭店</span>
+                        <span class="flex-auto text-right">4</span>
+                      </a>
+                    </li>
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/42279933/" class="d-flex flex-items-center text-y-end">
+                        <img src="http://p1.meituan.net/600.600/deal/05304424ebc431f3467711b714b830f1300451.jpg"
+                          class="avatar" />
+                        <span class="col-7 mx-3">创元千禧大酒店</span>
+                        <span class="flex-auto text-right">5</span>
+                      </a>
+                    </li>
+                  </ol>
+                </div>
+
+                <div class="col-lg-6 col-xl-5 pt-lg-6 mt-lg-6 mb-6">
+                  <!--// SPACER //-->
+                  <div class="py-lg-6"></div>
+
+                  <h4 class="f1 h text-bold lh-condensed mb-4">人均消费200以上的饭店</h4>
+                  <ol class="list-style-none f5 f4-md text-uppercase text-break">
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/4498559/" class="d-flex flex-items-center text-y-end">
+                        <img src="https://img.meituan.net/600.600/msmerchant/0adb1ce80c6ab7898fb0978aed33be0e592389.jpg"
+                          class="avatar" />
+                        <span class="col-7 mx-3">雍和会海鲜姿造自助（湖东店）</span>
+                        <span class="flex-auto text-right">1</span>
+                      </a>
+                    </li>
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/834995/" class="d-flex flex-items-center text-y-end">
+                        <img src="http://p0.meituan.net/600.600/shaitu/bbf17861c51285baed32754441962f66235496.jpg"
+                          class="avatar" />
+                        <span class="col-7 mx-3">松鹤精致料理</span>
+                        <span class="flex-auto text-right">2</span>
+                      </a>
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/5106460/" class="d-flex flex-items-center text-y-end">
+                        <img src="http://p0.meituan.net/600.600/deal/f676994a7efb2ed733b65eeb61a65ecf43682.jpg"
+                          class="avatar" />
+                        <span class="col-7 mx-3">海天盛宴海鲜自助（正大广场店）</span>
+                        <span class="flex-auto text-right">3</span>
+                      </a>
+                    </li>
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/1156202/" class="d-flex flex-items-center text-y-end">
+                        <img src="https://img.meituan.net/600.600/msmerchant/bffc52796dbe9d8c74aaa175a72b36bc126959.png"
+                          class="avatar" />
+                        <span class="col-7 mx-3">璞月中华意境菜</span>
+                        <span class="flex-auto text-right">4</span>
+                      </a>
+                    </li>
+                    <li class="my-3">
+                      <a href="http://meituan.com/meishi/4071149/" class="d-flex flex-items-center text-y-end">
+                        <img src="http://p1.meituan.net/600.600/bbia/e08998607dde8e5a38e1b13574c5fe002229128.jpg"
+                          class="avatar" />
+                        <span class="col-7 mx-3">福州世茂洲际酒店·福邸</span>
+                        <span class="flex-auto text-right">5</span>
+                      </a>
+                    </li>
+
+                  </ol>
+                </div>
+              </div>
+
+              <!--// SPACER //-->
+              <div class="py-6 my-6"></div>
+
+              <div class="d-md-flex flex-wrap">
+                <div class="col-md-5 pl-md-6">
+                  <h3 class="h1 lh-condensed mb-2">最受欢迎的商圈</h3>
+                </div>
+
+              </div>
+
+              <!--// SPACER //-->
+              <div class="py-6 py-md-80px"></div>
+              <div class="py-md-80px"></div>
+            </div>
+          </div>
+  
+          <!--// "Emojis" //-->
+          <div class="position-relative bg-white bg-vrs px-md-6">
+            <div class="position-relative d-md-flex flex-wrap flex-justify-end bg-vrs--interior mx-md-6">
+              <div class="col-md-6 col-lg-8 col-xl-5"></div>
+              <div class="col-md-6 col-lg-4 mx-4 mx-md-0 mb-3 mb-md-6">
+                <h3 class="f0 h lh-condensed mb-2">NO1:五四北泰禾</h3>
+                <p class="text-gray">五四北泰禾广场是泰禾集团进军高端商业地产的开篇巨著，建成后将是一个集购物、休闲、娱乐、餐饮、商务办公以及商务办公为一体的福州北唯一大型商业综合体，一站式时尚生活体验中心，拥有近4000平方米的市民休闲广场，
+                  配置，每百平米商业面积，是福州目前配比最高的城市综合体。
+                  也是福州首家引进飞天梯的购物中心，给消费者带来独一无二的购物体验，提升商业综合体及城市价值。</p>
+              </div>
+              
+            </div>
+            <div class="emoji-thumbsupContainer d-none d-md-block col-md-4 col-lg-5 position-md-absolute">
+              <img class="emoji-thumbsup" src="vendor/emoji-plus_1.svg" alt="thumbsup" />
+            </div>
+          </div>
+
+          <!--// WORK //-->
+          <div class="bg-white bg-vrs px-4 px-md-6">
+            <div class="bg-vrs--interior py-6 mx-md-6">
+
+              <!--// SPACER //-->
+              <div id="work" class="Nav-waypoint py-md-80px my-6"></div>
+
+              <div class="position-relative">
+                <div class="position-relative">
+                  <svg class="rellax bg-vrs-star bg-vrs-star--2 position-absolute"
+                    style="top: 20%; margin-left: -0.85em;" data-rellax-speed="2" width="30" height="30"
+                    viewBox="0 0 23 23" xmlns="http://www.w3.org/2000/svg">
+                    <title>star</title>
+                    <defs>
+                      <filter x="-75%" y="-58.3%" width="250%" height="250%" filterUnits="objectBoundingBox" id="a">
+                        <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1" />
+                        <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1" />
+                        <feColorMatrix values="0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0.5 0"
+                          in="shadowBlurOuter1" result="shadowMatrixOuter1" />
+                        <feMerge>
+                          <feMergeNode in="shadowMatrixOuter1" />
+                          <feMergeNode in="SourceGraphic" />
+                        </feMerge>
+                      </filter>
+                    </defs>
+                    <g filter="url(#a)" transform="translate(5 3)" fill="none" fill-rule="evenodd">
+                      <path
+                        d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137"
+                        fill="#E1E4E8" />
+                      <path
+                        d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137z"
+                        stroke="#F37055" stroke-width="3.52" fill="#F37055" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    </g>
+                  </svg>
+
+                  <svg class="rellax bg-vrs-star bg-vrs-star--3 position-absolute"
+                    style="bottom: 10%; margin-right: -0.80em;" data-rellax-speed="2" width="24" height="24"
+                    viewBox="0 0 23 23" xmlns="http://www.w3.org/2000/svg">
+                    <title>star</title>
+                    <defs>
+                      <filter x="-75%" y="-58.3%" width="250%" height="250%" filterUnits="objectBoundingBox" id="a">
+                        <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1" />
+                        <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1" />
+                        <feColorMatrix values="0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0.5 0"
+                          in="shadowBlurOuter1" result="shadowMatrixOuter1" />
+                        <feMerge>
+                          <feMergeNode in="shadowMatrixOuter1" />
+                          <feMergeNode in="SourceGraphic" />
+                        </feMerge>
+                      </filter>
+                    </defs>
+                    <g filter="url(#a)" transform="translate(5 3)" fill="none" fill-rule="evenodd">
+                      <path
+                        d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137"
+                        fill="#E1E4E8" />
+                      <path
+                        d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137z"
+                        stroke="#A166AB" stroke-width="3.52" fill="#A166AB" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    </g>
+                  </svg>
+
+
+                  <!--// "Work" header //-->
+                  <div class="col-md-8 col-lg-6 text-center px-3 py-6 mx-auto my-6">
+                    <div class="vr bg-spectrum--m mx-auto my-6"></div>
+
+                    <div class="py-6 my-6">
+                      <div class="h2">02</div>
+                      <h2 class="h0 text-spectrum--m lh-condensed">衣服</h2>
+                      <!-- <p class="col-sm-10 mx-auto text-gray">Thanks for bringing us to work. You’ve used GitHub to do
+                        your
+                        jobs at businesses big and small, from scrappy teams to enterprises across the globe.</p> -->
+                    </div>
+
+                    <div class="vr bg-spectrum--m mx-auto my-6"></div>
+                  </div>
+                </div>
+
+                
+              </div>
+            </div>
+          </div>
+
+          <div class="Map-title container-xxl mx-auto d-md-flex flex-wrap py-6">
+            <!--// ROW //-->
+            <div class="col-md-6 col-lg-5 pl-4 pl-md-6 pt-6">
+              <div class="pl-md-6 ml-md-6">
+                <h3 class="f0 h text-bold lh-condensed mb-2">东街口<br>成为卖衣服最好的去处</h3>
+                <p class="text-gray pr-lg-6">
+                    大洋百货，东百，东方百货，想便宜一点的，可以在东街口往旗汛口那边走，
+                    路边都是卖衣服的，有专卖也有小店，都挺不错的，还有旗汛口折扣店，里面的衣服都很便宜，品牌折扣都很低。
+                </p>
+                <p class="text-gray pr-lg-6">
+                    怀念小时候津泰路的小摊贩。
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        
+
+          <!--// LEARN //-->
+          <div class="bg-white bg-vrs px-4 px-md-6">
+            <div class="bg-vrs--interior py-6 mx-md-6">
+
+              <!--// SPACER //-->
+              <div id="learn" class="Nav-waypoint py-md-6 my-6"></div>
+
+              <div class="position-relative">
+                <!--// "Learn" header //-->
+                <div class="col-md-8 col-lg-6 text-center py-6 mx-auto">
+                  <div class="vr bg-spectrum--k mx-auto my-6"></div>
+
+                  <div class="py-6 my-6">
+                    <div class="h2">03</div>
+                    <h2 class="h0 text-spectrum--k lh-condensed">Learn</h2>
+                    <p class="col-sm-10 mx-auto text-gray">With so much of the world’s code on GitHub, it’s a natural
+                      place
+                      for people to learn and prepare for careers in technology—millions of teachers and students now
+                      work
+                      together on GitHub.</p>
+                  </div>
+
+                  <div class="vr bg-spectrum--k mx-auto my-6"></div>
+                </div>
+
+                <svg class="rellax bg-vrs-star bg-vrs-star--2 position-absolute" style="top: 15%; margin-left: -0.65em;"
+                  data-rellax-speed="2" width="24" height="24" viewBox="0 0 23 23" xmlns="http://www.w3.org/2000/svg">
+                  <title>star</title>
+                  <defs>
+                    <filter x="-75%" y="-58.3%" width="250%" height="250%" filterUnits="objectBoundingBox" id="a">
+                      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1" />
+                      <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1" />
+                      <feColorMatrix values="0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0.5 0"
+                        in="shadowBlurOuter1" result="shadowMatrixOuter1" />
+                      <feMerge>
+                        <feMergeNode in="shadowMatrixOuter1" />
+                        <feMergeNode in="SourceGraphic" />
+                      </feMerge>
+                    </filter>
+                  </defs>
+                  <g filter="url(#a)" transform="translate(5 3)" fill="none" fill-rule="evenodd">
+                    <path
+                      d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137"
+                      fill="#E1E4E8" />
+                    <path
+                      d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137z"
+                      stroke="#5073B8" stroke-width="3.52" fill="#5073B8" stroke-linecap="round"
+                      stroke-linejoin="round" />
+                  </g>
+                </svg>
+
+                <svg class="rellax bg-vrs-star bg-vrs-star--3 position-absolute"
+                  style="bottom: 10%; margin-right: -0.80em;" data-rellax-speed="2" width="24" height="24"
+                  viewBox="0 0 23 23" xmlns="http://www.w3.org/2000/svg">
+                  <title>star</title>
+                  <defs>
+                    <filter x="-75%" y="-58.3%" width="250%" height="250%" filterUnits="objectBoundingBox" id="a">
+                      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1" />
+                      <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1" />
+                      <feColorMatrix values="0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0.5 0"
+                        in="shadowBlurOuter1" result="shadowMatrixOuter1" />
+                      <feMerge>
+                        <feMergeNode in="shadowMatrixOuter1" />
+                        <feMergeNode in="SourceGraphic" />
+                      </feMerge>
+                    </filter>
+                  </defs>
+                  <g filter="url(#a)" transform="translate(5 3)" fill="none" fill-rule="evenodd">
+                    <path
+                      d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137"
+                      fill="#E1E4E8" />
+                    <path
+                      d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137z"
+                      stroke="#F79533" stroke-width="3.52" fill="#F79533" stroke-linecap="round"
+                      stroke-linejoin="round" />
+                  </g>
+                </svg>
+
+              </div>
+
+              <!--// SPACER //-->
+              <div class="py-6 my-6"></div>
+
+            </div>
+          </div>
+          <!--// "1,000,000 students" //-->
+          <div class="position-relative bg-white bg-vrs">
+            <h4 class="h0 text-gray-light position-absolute top-0 left-0" style="margin-top: -1em;">1.3 Million</h4>
+            <div
+              class="OnePointThreeMill-box position-absolute top-0 bottom-0 left-0 col-12 col-lg-9 col-xl-7 bg-spectrum--k">
+            </div>
+            <div class="container-xxl d-md-flex flex-wrap gutter-md px-4 px-md-5 mx-auto">
+              <div class="col-lg-1"></div>
+              <div class="col-lg-7 position-relative text-center text-md-left">
+                <div class="text-white pt-lg-6 mt-lg-6">
+                  <p class="f1 text-galano-bold lh-condensed"><span
+                      class="HundredMth-number d-block lh-condensed text-break">1,300,000</span> students are learning
+                    on
+                    GitHub</p>
+                </div>
+              </div>
+              <div class="col-lg-4"></div>
+
+              <div class="col-md-6 col-lg-8"></div>
+
+              <div class="col-md-6 col-lg-4 position-relative pb-6 pb-md-0 text-center text-md-left"
+                style="bottom: -2em;">
+                <p class="HundredMth-number mb-0 text-white text-md-black text-galano-bold lh-condensed-ultra">5,300</p>
+                <p class="position-relative pb-6 text-white text-md-black text-galano-bold f1 mb-0 lh-condensed">
+                  teachers
+                  are educating on&nbsp;GitHub</p>
+              </div>
+            </div>
+          </div>
+          <!--// SPACER //-->
+          <div class="bg-white bg-vrs">
+            <div class="bg-vrs--interior py-6 mx-md-6">
+              <div class="py-6"></div>
+            </div>
+          </div>
+
+          <div class="Map-title container-xxl mx-auto d-md-flex flex-wrap py-6">
+            <!--// ROW //-->
+            <div class="col-md-6 col-lg-5 pl-4 pl-md-6 pt-6">
+              <div class="pl-md-6 ml-md-6">
+                <h3 class="f0 h text-bold lh-condensed mb-2">Teaching and learning better, together</h3>
+                <p class="text-gray pr-lg-6">We’ve worked with you in university classrooms everywhere from New York to
+                  Singapore. These are the colleges and universities using GitHub most by the number of accounts using
+                  our
+                  education discount. </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!--// "Universities by # of education accounts" (MAP) //-->
+        <div id="map-universities" class="Map" data-geojson="universities" data-color="#1098AD"></div>
+
+        <div class="container-xxl mx-auto">
+          <div class="bg-white bg-vrs px-4 px-md-6">
+            <div class="bg-vrs--interior py-6 mx-md-6">
+
+              <!--// SPACER //-->
+              <div class="py-6"></div>
+
+              <!--// "Classroom signups" //-->
+              <div class="d-md-flex flex-items-start py-6 mx-md-6 my-6">
+                <div class="col-md-6 col-lg-4">
+                  <h4 class="f0 text-bold lh-condensed mb-2">A growing Classroom</h4>
+                  <p class="text-gray"><strong>4,526 teachers</strong> and students are working together on GitHub
+                    Classroom—a way to distribute, complete, and grade assignments on GitHub. This year, signups for
+                    GitHub
+                    Classroom have grown nearly 100 percent and spread across <strong>272.2K repositories</strong>.</p>
+                </div>
+
+                <div class="col-md-1"></div>
+
+                <div class="Chart col-md-5 col-lg-7 bg-white mt-6 mt-md-0">
+                  <canvas id="chartClassroomSignups" width="400" height="200"></canvas>
+                </div>
+              </div>
+
+              <div class="d-md-flex flex-wrap py-6 mx-md-6 my-6">
+
+                <!--// ROW //-->
+                <div class="col-md-10">
+                  <p class="f00 text-bold lh-condensed py-6 my-6"><span class="d-block f2">Since its launch in
+                      2014,</span>
+                    the Student Developer Pack has <span class="d-inline-block text-underline--fat--k"><strong
+                        class="text-normal">helped 244K students</strong></span> code like pros <span
+                      class="d-block f2">without worrying about the cost. <a href="https://education.github.com/pack"
+                        class="text-gray-dark text-underline">Join the Pack</a></span></p>
+                </div>
+
+                <div class="col-md-2"></div>
+              </div>
+
+
+
+
+              <!--// ROW //-->
+              <div class="d-md-flex flex-wrap">
+                <div class="col-md-6 col-lg-7"></div>
+
+                <div class="col-md-6 col-lg-4 text-center text-md-left">
+                  <span class="BigNum-decimal--offset d-inline-block text-bold text-k-end">50</span>
+                  <div class="BigNum-context mt-4">
+                    <div class="BigNum-context-figure f0 text-bold mb-2 lh-condensed">student experts in the&nbsp;field
+                    </div>
+                    <p class="text-gray"><a class="text-gray text-underline"
+                        href="https://education.github.com/experts"><strong>Fifty Campus Experts</strong></a> have
+                      worked
+                      hard to build tech communities at their schools. These students major in various subjects—from
+                      computer science to economics—and they come from <strong>14 different countries</strong>.</p>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+          <!--// CONNECT //-->
+          <div id="connect" class="Nav-waypoint">
+            <div class="bg-white bg-vrs px-4 px-md-6">
+              <div class="bg-vrs--interior py-6 mx-md-6">
+
+                <div class="position-relative">
+                  <!--// "Connect" header //-->
+                  <div class="col-md-8 col-lg-6 text-center py-6 mx-auto my-6">
+                    <div class="vr bg-spectrum--c mx-auto my-6"></div>
+
+                    <div class="py-6 my-6">
+                      <div class="h2">04</div>
+                      <h2 class="h0 text-spectrum--c lh-condensed">Connect</h2>
+                      <p class="col-sm-10 mx-auto text-gray">This year, seven million developers joined GitHub. You
+                        opened
+                        your first pull requests, created new repositories, and contributed to the open source community
+                        in
+                        hometowns from São Paulo to Shanghai.</p>
+                    </div>
+
+                    <div class="vr bg-spectrum--c mx-auto my-6"></div>
+                  </div>
+
+                  <svg class="rellax bg-vrs-star bg-vrs-star--2 position-absolute"
+                    style="bottom: 15%; margin-left: -0.95em;" data-rellax-speed="2" width="33" height="33"
+                    viewBox="0 0 23 23" xmlns="http://www.w3.org/2000/svg">
+                    <title>star</title>
+                    <defs>
+                      <filter x="-75%" y="-58.3%" width="250%" height="250%" filterUnits="objectBoundingBox" id="a">
+                        <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1" />
+                        <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1" />
+                        <feColorMatrix values="0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0.5 0"
+                          in="shadowBlurOuter1" result="shadowMatrixOuter1" />
+                        <feMerge>
+                          <feMergeNode in="shadowMatrixOuter1" />
+                          <feMergeNode in="SourceGraphic" />
+                        </feMerge>
+                      </filter>
+                    </defs>
+                    <g filter="url(#a)" transform="translate(5 3)" fill="none" fill-rule="evenodd">
+                      <path
+                        d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137"
+                        fill="#E1E4E8" />
+                      <path
+                        d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137z"
+                        stroke="#07B39B" stroke-width="3.52" fill="#07B39B" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    </g>
+                  </svg>
+
+                  <svg class="rellax bg-vrs-star bg-vrs-star--3 position-absolute"
+                    style="top: 15%; margin-left: -0.80em;" data-rellax-speed="2" width="20" height="20"
+                    viewBox="0 0 23 23" xmlns="http://www.w3.org/2000/svg">
+                    <title>star</title>
+                    <defs>
+                      <filter x="-75%" y="-58.3%" width="250%" height="250%" filterUnits="objectBoundingBox" id="a">
+                        <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1" />
+                        <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1" />
+                        <feColorMatrix values="0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0 0.562845451 0 0 0 0.5 0"
+                          in="shadowBlurOuter1" result="shadowMatrixOuter1" />
+                        <feMerge>
+                          <feMergeNode in="shadowMatrixOuter1" />
+                          <feMergeNode in="SourceGraphic" />
+                        </feMerge>
+                      </filter>
+                    </defs>
+                    <g filter="url(#a)" transform="translate(5 3)" fill="none" fill-rule="evenodd">
+                      <path
+                        d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137"
+                        fill="#E1E4E8" />
+                      <path
+                        d="M.622 6.137C4.283 5.113 5.101 4.289 6.101.622c1.024 3.661 1.847 4.479 5.514 5.479-3.66 1.024-4.478 1.846-5.478 5.514C5.113 7.955 4.289 7.137.622 6.137z"
+                        stroke="#A166AB" stroke-width="3.52" fill="#A166AB" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    </g>
+                  </svg>
+
+                </div>
+
+                <!--// SPACER //-->
+                <div class="py-md-6 my-6"></div>
+
+                <!--// "" //-->
+                <div class="d-md-flex flex-wrap py-6 my-6">
+                  <!--// ROW //-->
+                  <div class="col-md-3 col-lg-2"></div>
+                  <div class="col-md-5 col-lg-4 text-center text-md-left">
+                    <span class="BigNum-decimal--rotate d-block text-bold text-c-start">6.7</span>
+                    <div class="BigNum-context">
+                      <div class="BigNum-context-figure text-bold">million</div>
+                      <div class="text-uppercase">new developers since Sept. 2016</div>
+                    </div>
+                  </div>
+                  <div class="col-md-4 col-lg-6"></div>
+
+                  <!--// ROW //-->
+                  <div class="col-md-6 col-lg-8"></div>
+                  <div class="col-md-5 col-lg-4 my-6 text-center text-md-left">
+                    <div class="col-md-1 py-md-80px"></div>
+                    <span class="BigNum-decimal--rotate d-inline-block text-bold text-c-start">451</span>
+                    <div class="BigNum-context">
+                      <div class="BigNum-context-figure text-bold">thousand</div>
+                      <div class="text-uppercase">new organizations since Sept. 2016,</div>
+                      <span class="text-gray">including <a class="text-gray text-underline"
+                          href="https://github.com/python">Python</a>, which moved to GitHub earlier in 2017</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="Map-title container-xxl mx-auto d-md-flex flex-wrap py-6">
+            <!--// ROW //-->
+            <div class="col-md-6 col-lg-5 pl-4 pl-md-6 pt-6">
+              <div class="pl-md-6 ml-md-6">
+                <h3 class="f0 h text-bold lh-condensed mb-2">Welcome to GitHub</h3>
+                <p class="text-gray pr-lg-6">We’re excited to welcome newcomers from around the world to GitHub. This
+                  year,
+                  more than <strong>1,000,000</strong> developers joined us from the United States and nearly
+                  <strong>700,000</strong> from China.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!--// "Countries with most growth" (MAP) //-->
+        <div id="map-signups" class="Map" data-geojson="countries-signups" data-color="multiple">
+          <ul
+            class="Map-legend position-absolute top-0 right-0 col-12 col-md-6 col-lg-4 d-flex list-style-none text-gray f5">
+            <li class="col-3" style="border-color: #B4E8E1;">0 - 250K</li>
+            <li class="col-3" style="border-color: #6AD1C3;">250K - 500K</li>
+            <li class="col-3" style="border-color: #07B39B;">500K - 1M</li>
+            <li class="col-3" style="border-color: #068976;">&gt; 1M</li>
+          </ul>
+        </div>
+
+        <div class="container-xxl mx-auto">
+          <div class="bg-white bg-vrs px-4 px-md-6">
+            <div class="bg-vrs--interior py-6 mx-md-6">
+
+              <!--// "User firsts" //-->
+              <div class="d-md-flex flex-wrap">
+                <!--// SPACER //-->
+                <div class="col-md-12 py-6 my-6"></div>
+
+                <!--// ROW //-->
+                <div class="col-md-3 col-lg-2"></div>
+
+                <div class="col-md-5 col-lg-4 text-center text-md-left">
+                  <span class="BigNum-decimal--rotate d-block text-bold text-c-start">1.2</span>
+                  <div class="BigNum-context">
+                    <div class="BigNum-context-figure text-bold">million</div>
+                    <div class="text-uppercase">people made their first pull request since September 2016</div>
+                  </div>
+                </div>
+
+                <div class="col-md-6 col-lg-6"></div>
+
+                <!--// ROW //-->
+                <div class="col-md-7 col-lg-8"></div>
+
+                <div class="col-md-5 col-lg-3 pb-md-6 my-6 ml-lg-6 text-center text-md-left">
+                  <span class="BigNum-decimal--offset d-block text-bold text-c-start">4.1</span>
+                  <div class="BigNum-context">
+                    <div class="BigNum-context-figure text-bold">million</div>
+                    <div class="text-uppercase">people created their first repository since September 2016</div>
+                  </div>
+                </div>
+
+                <!--// ROW //-->
+                <div class="col-md-3 col-lg-2"></div>
+
+                <div class="col-md-5 col-lg-4 text-center text-md-left">
+                  <span class="BigNum-decimal--rotate d-block text-bold text-c-start">191</span>
+                  <div class="BigNum-context">
+                    <div class="BigNum-context-figure text-bold">thousand</div>
+                    <div class="text-uppercase">people starred or forked a repo without pushing&nbsp;code,</div>
+                    <span class="text-gray">proving you don’t need to commit to be part of the open source
+                      community.</span>
+                  </div>
+                </div>
+
+                <div class="col-md-4 col-lg-6"></div>
+
+                <div class="col-12 py-md-80px"></div>
+
+
+                <!--// ROW: "Open Source Survey" //-->
+                <div class="col-lg-1"></div>
+                <div class="col-md-6 col-lg-4">
+                  <!--// SPACER //-->
+                  <div class="py-6 py-md-0"></div>
+                  <h4 class="f0 h text-bold mb-2 lh-condensed">Who's new to GitHub</h4>
+                  <p class="text-gray">For a little over a year, we’ve been asking new GitHub users about their
+                    professional
+                    and programming experience. We learned that almost half of people signing up are students or new to
+                    programming.</p>
+                </div>
+                <div class="col-md-6"></div>
+
+                <!--// ROW //-->
+                <div class="col-md-12 d-lg-flex flex-items-center">
+                  <div class="col-lg-1"></div>
+                  <div class="col-lg-3 mt-6">
+                    <h4 class="f1 h lh-condensed">How new users describe themselves</h4>
+                  </div>
+
+                  <!--// PIE CHART //-->
+                  <div class="Chart col-lg-8 px-lg-6">
+                    <div class="d-sm-flex d-md-block position-relative container-lg mx-auto my-6">
+                      <div
+                        class="position-md-absolute top-0 right-0 bottom-0 left-0 col-sm-6 col-md-12 d-xl-flex flex-column flex-justify-between">
+                        <div class="d-md-flex flex-justify-between pb-lg-6 mb-md-6 ml-md-6">
+                          <div class="col-md-4 mb-3 text-center text-md-left">
+                            <div class="BigNum-context">
+                              <div class="BigNum-context-figure text-bold">48%</div>
+                              <div class="text-uppercase">identify as "student"</div>
+                            </div>
+                          </div>
+                          <div class="col-md-4"></div>
+                          <div class="col-md-4 mb-3 text-center text-md-left">
+                            <div class="BigNum-context">
+                              <div class="BigNum-context-figure text-bold">28%</div>
+                              <div class="text-uppercase">identify as "professional"</div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <!--// SPACER //-->
+                        <div class="py-md-6 py-lg-0 my-md-6 my-lg-0"></div>
+
+                        <div class="d-md-flex flex-justify-end pt-lg-6 mt-md-6">
+                          <div class="col-md-4 mb-3 text-center text-md-left">
+                            <div class="BigNum-context">
+                              <div class="BigNum-context-figure text-bold">22%</div>
+                              <div class="text-uppercase">identify as "hobbyist"</div>
+                            </div>
+                          </div>
+                          <div class="col-md-4 mb-3 text-center text-md-left" style="order: -1;">
+                            <div class="BigNum-context">
+                              <div class="BigNum-context-figure text-bold">3%</div>
+                              <div class="text-uppercase">identify as "other"</div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="d-none d-sm-block col-sm-6 col-md-12">
+                        <canvas id="chartOpenSourceSurvey-identify" width="400" height="200"></canvas>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <!--// ROW //-->
+                <div class="col-md-12 d-lg-flex flex-items-center pt-md-6 mt-6 flex-row-reverse">
+                  <div class="col-lg-1"></div>
+
+                  <div class="col-lg-4 mt-6">
+                    <h4 class="f1 h lh-condensed">How much programming experience new users have</h4>
+                  </div>
+
+                  <!--// PIE CHART //-->
+                  <div class="Chart col-lg-8">
+                    <div class="d-sm-flex d-md-block position-relative container-lg mx-auto my-6">
+                      <div
+                        class="position-md-absolute top-0 right-0 bottom-0 left-0 col-sm-6 col-md-12 d-xl-flex flex-column flex-justify-between">
+                        <div class="col-md-4 pb-md-6 pl-md-6 mb-3 mb-md-6 ml-md-6 text-center text-md-left">
+                          <div class="BigNum-context">
+                            <div class="BigNum-context-figure text-bold">45%</div>
+                            <div class="text-uppercase">somewhat experienced</div>
+                          </div>
+                        </div>
+
+                        <!--// SPACER //-->
+                        <div class="py-md-6 py-lg-0 my-md-6 my-lg-0"></div>
+
+                        <div class="d-md-flex flex-justify-center pt-lg-6 mt-md-6">
+                          <div class="col-md-4 mb-3 text-center text-md-left">
+                            <div class="BigNum-context">
+                              <div class="BigNum-context-figure text-bold">45%</div>
+                              <div class="text-uppercase">totally new to programming</div>
+                            </div>
+                          </div>
+                          <div class="col-md-4 mr-md-6 mb-3 text-center text-md-left" style="order: -1;">
+                            <div class="BigNum-context">
+                              <div class="BigNum-context-figure text-bold">10%</div>
+                              <div class="text-uppercase">very experienced</div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="d-none d-sm-block col-sm-6 col-md-12">
+                        <canvas id="chartOpenSourceSurvey-experience" width="400" height="200"></canvas>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+
+              <div class="position-relative py-6 my-6">
+                <!--// SPACER //-->
+                <div class="py-md-6 my-6"></div>
+                <div class="col-md-6 col-lg-5 mx-auto text-center">
+                  <h3 class="f0 h mb-2 lh-condensed">The people behind the&nbsp;code</h3>
+                  <p class="text-gray">People are behind every project. This year, developers and open source
+                    maintainers
+                    shared their stories.</p>
+                </div>
+              </div>
+
+              <!--// "I am a developer stories" //-->
+              <div class="d-md-flex flex-wrap flex-justify-between mx-md-6 my-6">
+                <div class="col-md-5 mb-5">
+                  <div class="my-3">
+                    <div class="video-responsive">
+                      <iframe
+                        src="https://www.youtube.com/embed/MjKwvdF7SrA?modestbranding=1&amp;controls=0&amp;iv_load_policy=3&amp;rel=0&amp;theme=light&amp;color=white&amp;showinfo=0"
+                        frameborder="0" allowfullscreen=""></iframe>
+                    </div>
+                  </div>
+                  <h4 class="f1 h lh-condensed mb-2"><a class="text-c-end text-underline"
+                      href="https://github.com/open-source/stories">Katrina Owen</a></h4>
+                  <p class="text-gray">Katrina is the creator of Exercism, a platform for people learning programming
+                    languages that supports more than 50 languages, written and used by developers across 190 countries.
+                  </p>
+                </div>
+
+                <div class="col-md-5 pt-md-6 mb-5">
+                  <!--// SPACER //-->
+                  <div class="py-md-6 my-md-6"></div>
+
+                  <div class="my-3">
+                    <div class="video-responsive">
+                      <iframe
+                        src="https://www.youtube.com/embed/u4tq9Ef5czw?modestbranding=1&amp;controls=0&amp;iv_load_policy=3&amp;rel=0&amp;theme=light&amp;color=white&amp;showinfo=0"
+                        frameborder="0" allowfullscreen=""></iframe>
+                    </div>
+                  </div>
+                  <h4 class="f1 h lh-condensed mb-2"><a class="text-c-end text-underline"
+                      href="https://github.com/developer-stories/alicia">Alicia Carr</a></h4>
+                  <p class="text-gray">Alicia is an activist, mentor, grandmother, and self-taught developer from
+                    Georgia.
+                    After learning to code online, she built an app to support women who are victims of domestic
+                    violence
+                    across the United States.</p>
+                </div>
+
+                <div class="col-md-5 mb-5">
+                  <div class="my-3">
+                    <div class="video-responsive">
+                      <iframe
+                        src="https://www.youtube.com/embed/WVQe1ZE7FtU?modestbranding=1&amp;controls=0&amp;iv_load_policy=3&amp;rel=0&amp;theme=light&amp;color=white&amp;showinfo=0"
+                        frameborder="0" allowfullscreen=""></iframe>
+                    </div>
+                  </div>
+                  <h4 class="f1 h lh-condensed mb-2"><a class="text-c-end text-underline"
+                      href="https://github.com/developer-stories/lisa">Lisa Lang</a></h4>
+                  <p class="text-gray">Lisa is a fashion designer from a long family tradition of German textile
+                    workers.
+                    She creates wearable technology for high end couture fashion and helps aspiring fashion
+                    technologists
+                    kick off careers.</p>
+                </div>
+
+                <div class="col-md-5 pt-md-6 mb-5">
+                  <!--// SPACER //-->
+                  <div class="py-md-6 my-md-6"></div>
+
+                  <div class="my-3">
+                    <div class="video-responsive">
+                      <iframe
+                        src="https://www.youtube.com/embed/lqMwTToOojk?modestbranding=1&amp;controls=0&amp;iv_load_policy=3&amp;rel=0&amp;theme=light&amp;color=white&amp;showinfo=0"
+                        frameborder="0" allowfullscreen=""></iframe>
+                    </div>
+                  </div>
+                  <h4 class="f1 h lh-condensed mb-2"><a class="text-c-end text-underline"
+                      href="https://www.youtube.com/watch?v=lqMwTToOojk">Inselect</a></h4>
+                  <p class="text-gray">Inselect is an open source desktop application created by the Natural History
+                    Museum
+                    in London that automatically crops and catalogs insect specimens.</p>
+                </div>
+              </div>
+
+              <div class="py-md-80px"></div>
+
+              <!--// "Social impact" //-->
+              <div class="d-md-flex flex-wrap">
+
+                <!--// ROW //-->
+                <div class="d-lg-flex flex-items-center">
+                  <div class="col-lg-1"></div>
+                  <div class="col-md-9 col-lg-5 pl-lg-6">
+                    <h3 class="f0 h mb-2 lh-condensed">Connecting people and&nbsp;software</h3>
+                    <p class="pb-md-6 mb-6 text-gray text-center text-md-left">We’ve made it our mission to help more
+                      people
+                      build, use, and share software—and we’re finding new ways to help out. Over the years, we’ve held
+                      hundreds of events and built partnerships with nonprofits worldwide.</p>
+                  </div>
+
+                  <div class="col-lg-2"></div>
+                  <div class="col-md-8 col-lg-5 mb-6 text-center text-md-left">
+                    <span class="BigNum-decimal d-block text-bold text-c-end">121</span>
+                    <div class="BigNum-context">
+                      <div class="f0 text-bold lh-condensed">social impact events sponsored</div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <!--// ROW //-->
+                <div class="col-md-2"></div>
+
+                <div class="col-md-5 col-lg-3 mb-6 text-center text-md-left">
+                  <span class="BigNum-decimal--offset d-block text-bold text-c-end">14</span>
+                  <div class="BigNum-context">
+                    <div class="f0 text-bold lh-condensed mb-2">Patchwork events&nbsp;held</div>
+                  </div>
+                </div>
+                <div class="col-md-4 col-lg-7"></div>
+
+                <!--// ROW //-->
+
+                <div class="col-md-4 col-lg-7"></div>
+                <div class="col-md-8 col-lg-5 mb-6 text-center text-md-left">
+                  <span class="BigNum-decimal d-block text-bold text-c-end">667</span>
+                  <div class="BigNum-context">
+                    <div class="f0 text-bold lh-condensed">New non-profit accounts created</div>
+                    <p class="text-gray">In total, <strong>32,604 non-profits</strong> are doing good on GitHub with
+                      free
+                      and discounted accounts.</p>
+                  </div>
+                </div>
+
+                <div class="col-md-3 col-lg-6"></div>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="Map-title container-xxl mx-auto d-md-flex flex-wrap py-6">
+            <div class="col-md-6 col-lg-4 pl-4 pl-md-6 pt-6">
+              <div class="pl-md-6 ml-md-5">
+                <h3 class="f0 h text-bold lh-condensed mb-2">It was nice to meet&nbsp;you</h3>
+                <p class="text-gray">We connected through events and partnerships in <strong>37 different
+                    countries</strong>. We’ve worked with <a href="http://www.code2040.org/"
+                    class="text-gray text-underline">Code2040</a> in San Francisco, spent a <a
+                    href="http://www.daysofcode.nl" class="text-gray text-underline">Day of Code</a> in Rotterdam,
+                  sponsored
+                  <a href="https://djangogirls.org/organize" class="text-gray text-underline">Django Girls</a> meetups
+                  across Africa, and lots more.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!--// "Where we've hosted events" (MAP) //-->
+        <div id="map-events" class="Map bg-white" data-geojson="countries-events" data-color="#6FBA82">
+          <div id="mapFocusBottom" class="Map-legend"></div>
+        </div>
+
+      </div>
+
+      <div id="footer">
+        <div class="Hero height-md-fullScreen overflow-hidden bg-darkness">
+          <div class="height-md-fullScreen container-xxl mx-auto position-relative px-4 px-md-6 pt-6">
+            <!--// SPACER //-->
+            <div class="py-6 my-6"></div>
+
+            <div class="position-md-absolute top-0 bottom-0 right-0 mr-md-6">
+              <div class="vr--spectrum position-md-absolute top-0 bottom-0 right-0 mr-md-6"></div>
+            </div>
+            <div class="bg-vrs--interior--dark d-none d-md-block position-md-absolute top-0 right-0 bottom-0 left-0"
+              style="margin: 0 80px">
+
+              <svg class="rellax bg-vrs-star bg-vrs-star--2 position-absolute"
+                style="bottom: 10%; margin-left: -0.55em;" data-rellax-speed="2" width="20" height="20"
+                viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
+                <title>Star Copy</title>
+                <g fill="none" fill-rule="evenodd">
+                  <path
+                    d="M8.878 15C7.855 10.978 6.978 10.064 3 8.878 7.022 7.855 7.936 6.978 9.123 3c1.022 4.022 1.9 4.936 5.877 6.123-4.022 1.022-4.936 1.9-6.122 5.877"
+                    fill="#24292E" />
+                  <path
+                    d="M8.878 15C7.855 10.978 6.978 10.064 3 8.878 7.022 7.855 7.936 6.978 9.123 3c1.022 4.022 1.9 4.936 5.877 6.123-4.022 1.022-4.936 1.9-6.122 5.877z"
+                    stroke="#A166AB" stroke-width="5.866" fill="#A166AB" stroke-linecap="round"
+                    stroke-linejoin="round" />
+                </g>
+              </svg>
+
+              <svg class="rellax bg-vrs-star bg-vrs-star--3 position-absolute" style="top: 10%; margin-right: -0.60em;"
+                data-rellax-speed="2" width="17" height="17" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
+                <title>Star Copy</title>
+                <g fill="none" fill-rule="evenodd">
+                  <path
+                    d="M8.878 15C7.855 10.978 6.978 10.064 3 8.878 7.022 7.855 7.936 6.978 9.123 3c1.022 4.022 1.9 4.936 5.877 6.123-4.022 1.022-4.936 1.9-6.122 5.877"
+                    fill="#24292E" />
+                  <path
+                    d="M8.878 15C7.855 10.978 6.978 10.064 3 8.878 7.022 7.855 7.936 6.978 9.123 3c1.022 4.022 1.9 4.936 5.877 6.123-4.022 1.022-4.936 1.9-6.122 5.877z"
+                    stroke="#F79533" stroke-width="5.866" fill="#F79533" stroke-linecap="round"
+                    stroke-linejoin="round" />
+                </g>
+              </svg>
+
+            </div>
+
+            <!--// Globe //-->
+            <div class="Earth">
+              <div class="Earth-floaties position-absolute top-0 right-0 bottom-0 left-0">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+
+              <img src="vendor/globe.svg" class="width-full" />
+            </div>
+
+            <div class="d-md-flex flex-wrap position-relative height-md-fullScreen text-gray-light mx-md-6">
+              <div class="col-md-1"></div>
+              <div class="col-md-8 col-lg-6 col-xl-6">
+                <p class="f00 text-bold text-white lh-condensed mb-3">Thank you for an amazing year.</p>
+                <p class="Logo-waypoint">We can’t wait to see what you build in 2018.</p>
+
+                <div class="pt-6 mt-6">
+                  <h4 class="f4 text-normal text-uppercase mb-3">Join our universe</h4>
+                  <ul class="list-style-none d-flex flex-items-center">
+                    <li class="mr-4"><a href="https://twitter.com/github"
+                        class="d-inline-block v-align-middle link-hover-opacity"><img src="vendor/twitter.svg"
+                          width="32" /><span class="d-none">Twitter: @github</span></a></li>
+                    <li class="mr-4"><a href="https://www.facebook.com/GitHub/"
+                        class="d-inline-block v-align-middle link-hover-opacity"><img src="vendor/facebook.svg"
+                          width="32" /><span class="d-none">Facebook: github</span></a></li>
+                    <li><a href="https://www.linkedin.com/company/github"
+                        class="d-inline-block v-align-middle link-hover-opacity"><img src="vendor/linkedin.svg"
+                          width="32" /><span class="d-none">Linkedin: github</span></a></li>
+                  </ul>
+                </div>
+
+                <div class="pt-6 mt-6">
+                  <ul class="list-style-none d-flex f5">
+                    <li class="mr-5"><a href="https://github.com/site/privacy" class="text-gray link-white">Privacy</a>
+                    </li>
+                    <li><a href="https://github.com/site/terms" class="text-gray link-white">Terms</a></li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="col-md-3 col-lg-4 col-xl-6">
+                <div class="position-md-absolute top-0 bottom-0 left-0">
+                  <div class="vr--spectrum position-md-absolute top-0 bottom-0 left-0"></div>
+                </div>
+              </div>
+
+              <!--// SPACER //-->
+              <div class="col-md-12 py-6 my-6"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <script src="vendor/jquery.js"></script>
+      <script src="vendor/leaflet.js" crossorigin=""></script>
+      <script src="vendor/jquery.waypoints.js"></script>
+      <script src="vendor/inview.js"></script>
+      <script src="vendor/rellax.js"></script>
+      <script src="vendor/Chart.bundle.min.js"></script>
+      <script src="vendor/scripts.js"></script>
+      <script src="vendor/styleguide.js"></script>
+      <!-- Global Site Tag (gtag.js) - Google Analytics -->
+      <!-- <script async src="vendor/gtag.js"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-3769691-36');
+  </script> -->
+
+</body>
+
+</html>
