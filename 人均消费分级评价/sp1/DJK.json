@@ -1,0 +1,642 @@
+[
+    {
+        "id": "23ba0a38978d741fb621390212425953",
+        "detil": "http://e.meituan.com/meishi/830611/",
+        "title": "伊藤屋日本料理",
+        "avgprice": "174",
+        "comments": "1385",
+        "avgscore": "4",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/13b112c4638afc63b9d6f4223b40e47a47279.jpg",
+        "address": "鼓楼区湖东路288号水调歌头5号别墅（省图书馆对面）"
+    },
+    {
+        "id": "db8e89e517ca2f13774bd00d26f039f8",
+        "detil": "http://e.meituan.com/meishi/5315814/",
+        "title": "居酒屋?勝",
+        "avgprice": "169",
+        "comments": "3",
+        "avgscore": "5",
+        "fornting": "https://p0.meituan.net/ugcpic/6834f46724e6c1e7c6224bd88d3d2f67@600w_600h_1l",
+        "address": "鼓楼区湖东路169号天骜大厦1楼（光大银行对面）"
+    },
+    {
+        "id": "7dfdb4721b2082591b40e55a5356c2fd",
+        "detil": "http://e.meituan.com/meishi/6594594/",
+        "title": "百加百炭火烤肉专门店",
+        "avgprice": "81",
+        "comments": "3837",
+        "avgscore": "5",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/c0a8369455a6354218f8b0cb3d5aab3b847805.jpg",
+        "address": "鼓楼区鼓楼东街口卫前街113-115号贤南商厦一楼"
+    },
+    {
+        "id": "39f0c5dee6ba8bae2fa2f5e7393fc9b7",
+        "detil": "http://e.meituan.com/meishi/833525/",
+        "title": "四海一家",
+        "avgprice": "143",
+        "comments": "1278",
+        "avgscore": "5",
+        "fornting": "http://p1.meituan.net/600.600/deal/201301/15/122150_6685890.jpg",
+        "address": "鼓楼区金泉路9号（近湖东路）"
+    },
+    {
+        "id": "11ddaa6f9cc7e6986656eaa6dd03f471",
+        "detil": "http://e.meituan.com/meishi/163358382/",
+        "title": "麦大叔·福建客家菜（五四新华都店）",
+        "avgprice": "81",
+        "comments": "111",
+        "avgscore": "3",
+        "fornting": "https://img.meituan.net/msmerchant/8e27ce0777edbfe834d4d693ebee5d0b1106501.jpg@600w_600h_1l",
+        "address": "鼓楼区五四路新华都广场附属楼2楼（新华都超市出口楼上）"
+    },
+    {
+        "id": "9f9c1926f42d3284ee806154e122c97c",
+        "detil": "http://e.meituan.com/meishi/4498559/",
+        "title": "雍和会海鲜姿造自助（湖东店）",
+        "avgprice": "383",
+        "comments": "10671",
+        "avgscore": "5",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/0adb1ce80c6ab7898fb0978aed33be0e592389.jpg",
+        "address": "鼓楼区湖东路171号中旅大厦二楼（五四路）"
+    },
+    {
+        "id": "9f9c1926f42d3284ee806154e122c97c",
+        "detil": "http://e.meituan.com/meishi/4498559/",
+        "title": "雍和会海鲜姿造自助（湖东店）",
+        "avgprice": "383",
+        "comments": "10671",
+        "avgscore": "5",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/0adb1ce80c6ab7898fb0978aed33be0e592389.jpg",
+        "address": "鼓楼区湖东路171号中旅大厦二楼（五四路）"
+    },
+    {
+        "id": "765bb48aa10f703d838c188a37bc8a4f",
+        "detil": "http://e.meituan.com/meishi/5318730/",
+        "title": "舒馨小厨",
+        "avgprice": "79",
+        "comments": "1134",
+        "avgscore": "5",
+        "fornting": "http://p0.meituan.net/600.600/mogu/e82d51a9b1da13a675f1284525580192167054.jpg",
+        "address": "鼓楼区五四路226号（舒馨时代酒店一楼）"
+    },
+    {
+        "id": "210d7e7e87e021b50e34a7001033154c",
+        "detil": "http://e.meituan.com/meishi/4685898/",
+        "title": "令狐冲·窑烤活鱼（达明路店）",
+        "avgprice": "54",
+        "comments": "10264",
+        "avgscore": "4",
+        "fornting": "https://img.meituan.net/180.180/msmerchant/4d202bf53e7667315005de06e924ab2378977.jpg@600w_600h_1l",
+        "address": "鼓楼区达明路与鼓西路交叉口达明路12号（老福州对面）"
+    },
+    {
+        "id": "77625277b1f028c2ad7461852283ed80",
+        "detil": "http://e.meituan.com/meishi/194929943/",
+        "title": "美咖咖啡（茶亭店）",
+        "avgprice": "16",
+        "comments": "69",
+        "avgscore": "5",
+        "fornting": "https://img.meituan.net/180.180/msmerchant/2bbb7595559d55f7c5da9fe3883854d0168071.jpg@600w_600h_1l",
+        "address": "台江区八一七中路与群众路交叉处茶亭国际超级物种内"
+    },
+    {
+        "id": "1644ed79ec8eec9f646bde387cff535b",
+        "detil": "http://e.meituan.com/meishi/5346129/",
+        "title": "壹合先生的食堂（五四店）",
+        "avgprice": "44",
+        "comments": "633",
+        "avgscore": "5",
+        "fornting": "http://p0.meituan.net/600.600/dpmerchantalbum/b51d660de26e2dc6ef90d0d71683ec62620695.jpg",
+        "address": "鼓楼区五四路宏运帝豪大厦一层（肯德基拐角处）"
+    },
+    {
+        "id": "87e27aa983935406e049b5f757fdb5e1",
+        "detil": "http://e.meituan.com/meishi/1499713746/",
+        "title": "元莱COFFEE",
+        "avgprice": "15",
+        "comments": "1",
+        "avgscore": "4",
+        "fornting": "https://img.meituan.net/msmerchant/dbedfa1b00b140847da52dee6a8a3e841960624.jpg@600w_600h_1l",
+        "address": "鼓楼区鼓东街道五显巷20号"
+    },
+    {
+        "id": "d1b6720937119bd47da41de43efc1a05",
+        "detil": "http://e.meituan.com/meishi/4601412/",
+        "title": "丝诺歌咖啡",
+        "avgprice": "24",
+        "comments": "418",
+        "avgscore": "4",
+        "fornting": "http://p0.meituan.net/600.600/deal/aa73843e2346de36da9efd449552eb77158968.jpg",
+        "address": "鼓楼区五四路226号（舒馨酒店院内）"
+    },
+    {
+        "id": "df6f8bd0e7e7f60cb0ff1d1642b20926",
+        "detil": "http://e.meituan.com/meishi/194752676/",
+        "title": "亲爱的蜂蜜茶（中亭街店）",
+        "avgprice": "12",
+        "comments": "81",
+        "avgscore": "4",
+        "fornting": "https://img.meituan.net/180.180/msmerchant/72f28e93000090afe9ceb3f6a428b0981039083.jpg@600w_600h_1l",
+        "address": "台江区八一七中路871号"
+    },
+    {
+        "id": "380e37c23aaa503872a07a43b62fc393",
+        "detil": "http://e.meituan.com/meishi/2442280/",
+        "title": "源益养生宝典",
+        "avgprice": "80",
+        "comments": "302",
+        "avgscore": "4",
+        "fornting": "http://p0.meituan.net/600.600/deal/__28712208__5250807.jpg",
+        "address": "鼓楼区湖东路288号水调歌头4号楼"
+    },
+    {
+        "id": "e1a3af19d589e83ca44a1dafcacd2807",
+        "detil": "http://e.meituan.com/meishi/4714198/",
+        "title": "印象东北（达明路店）",
+        "avgprice": "46",
+        "comments": "514",
+        "avgscore": "5",
+        "fornting": "http://p1.meituan.net/600.600/deal/__23015688__1042847.jpg",
+        "address": "鼓楼区达明路达明新村138号6号店（近鼓西路）"
+    },
+    {
+        "id": "5c0a30c5f1096aea177dbd9f269b1830",
+        "detil": "http://e.meituan.com/meishi/1497646145/",
+        "title": "哈肯铺手感烘焙",
+        "avgprice": "0",
+        "comments": "0",
+        "avgscore": "4",
+        "fornting": "https://img.meituan.net/poiugc/e0d995879bde767411aaf5dd972df13a1228849.jpg@600w_600h_1l",
+        "address": "鼓楼区南后街三坊七巷内南后街78号"
+    },
+    {
+        "id": "6f53e7bba8c16210bda8e917517ceca7",
+        "detil": "http://e.meituan.com/meishi/5201077/",
+        "title": "刘福记北京烤鸭店（中亭街店）",
+        "avgprice": "51",
+        "comments": "6316",
+        "avgscore": "5",
+        "fornting": "http://p0.meituan.net/600.600/mogu/e673f6a9815f91666e219f5adef00ae839590.png",
+        "address": "台江区八一七中路885号（达道美食城、建设银行对面，麦当劳楼下）"
+    },
+    {
+        "id": "fc35f2953a1218ad1e7af08216d1cb40",
+        "detil": "http://e.meituan.com/meishi/833572/",
+        "title": "福州大饭店-西餐厅",
+        "avgprice": "147",
+        "comments": "731",
+        "avgscore": "4",
+        "fornting": "http://p1.meituan.net/600.600/poi/ffd99ce84a72c8554c65d971c101e52187257.jpg",
+        "address": "鼓楼区斗东路1号（近八一七中路口）"
+    },
+    {
+        "id": "579ed2fbc2c17ba28f7417c2f48ce696",
+        "detil": "http://e.meituan.com/meishi/4580228/",
+        "title": "陈家生煎（三坊七巷店）",
+        "avgprice": "14",
+        "comments": "7111",
+        "avgscore": "4",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/d64083b0cb6cb574ac65e7e794e97619602649.jpg",
+        "address": "鼓楼区杨桥东路42-44号（三坊七巷对面）"
+    },
+    {
+        "id": "04a7c92490379ffbfb6d5ccfc723b56a",
+        "detil": "http://e.meituan.com/meishi/6450121/",
+        "title": "川居酒屋",
+        "avgprice": "125",
+        "comments": "653",
+        "avgscore": "4",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/52150c9e886a3ee9bb11f19d6d1d852c154349.jpg",
+        "address": "鼓楼区湖东路水调歌头一层（省图书馆对面）"
+    },
+    {
+        "id": "f9af25db5ae524c59bc30ec5a6b3f9df",
+        "detil": "http://e.meituan.com/meishi/52173927/",
+        "title": "1718海鲜火锅（五四路华福店）",
+        "avgprice": "104",
+        "comments": "3982",
+        "avgscore": "5",
+        "fornting": "http://p0.meituan.net/600.600/bbia/b0263a47d4bfe5bcbfdf5aeb99788404213781.jpg",
+        "address": "鼓楼区五四路173号新华福广场b座2楼"
+    },
+    {
+        "id": "00294ddf5b563d22fb7e6fec0eb97ce9",
+        "detil": "http://e.meituan.com/meishi/162875376/",
+        "title": "丽江龙继斑鱼庄（王府井店）",
+        "avgprice": "92",
+        "comments": "617",
+        "avgscore": "4",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/7011293c3f6b470eb8fa94e0e2a296ad63225.jpg",
+        "address": "鼓楼区五四路王府井六楼"
+    },
+    {
+        "id": "e2bddaeb6ce3abcbdb38e4a4f5e0a286",
+        "detil": "http://e.meituan.com/meishi/834012/",
+        "title": "小肥羊（福州中福店）",
+        "avgprice": "80",
+        "comments": "3752",
+        "avgscore": "4",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/478cf50a1e1cb505677849237ec2736f689508.jpg",
+        "address": "鼓楼区东街92号中福广场一、二层"
+    },
+    {
+        "id": "6efbf79bcd6289af28515f9eadffcc1b",
+        "detil": "http://e.meituan.com/meishi/51141793/",
+        "title": "凡塔斯牛排餐厅（王府井店）",
+        "avgprice": "74",
+        "comments": "1497",
+        "avgscore": "4",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/d267fb68ad0cf4a6462e1cc442ce8c6c303996.jpg",
+        "address": "鼓楼区五四路128号王府井百货7层A4"
+    },
+    {
+        "id": "208d5b745bdb5340185271a2c019350e",
+        "detil": "http://e.meituan.com/meishi/40928600/",
+        "title": "吉野家（王府井店）",
+        "avgprice": "22",
+        "comments": "1441",
+        "avgscore": "4",
+        "fornting": "http://p0.meituan.net/600.600/mogu/b366d2877665c11c4b68dafd48d0b8c649671.jpg",
+        "address": "鼓楼区五四路王府井负一楼"
+    },
+    {
+        "id": "639f3af70cf5e3687caed0ba98952644",
+        "detil": "http://e.meituan.com/meishi/836400/",
+        "title": "半亩江南食府",
+        "avgprice": "148",
+        "comments": "242",
+        "avgscore": "4",
+        "fornting": "http://p1.meituan.net/600.600/mogu/03017ed8425ee32eca96a55bd6d52eb3203506.jpg",
+        "address": "鼓楼区杨桥东路19号衣锦华庭一期1楼（近南后街）"
+    },
+    {
+        "id": "639f3af70cf5e3687caed0ba98952644",
+        "detil": "http://e.meituan.com/meishi/836400/",
+        "title": "半亩江南食府",
+        "avgprice": "148",
+        "comments": "242",
+        "avgscore": "4",
+        "fornting": "http://p1.meituan.net/600.600/mogu/03017ed8425ee32eca96a55bd6d52eb3203506.jpg",
+        "address": "鼓楼区杨桥东路19号衣锦华庭一期1楼（近南后街）"
+    },
+    {
+        "id": "ee258131ca43e2a73a113252157eadd6",
+        "detil": "http://e.meituan.com/meishi/834097/",
+        "title": "佳客来（湖东路店）",
+        "avgprice": "50",
+        "comments": "1039",
+        "avgscore": "4",
+        "fornting": "http://p1.meituan.net/600.600/deal/be0bb596f2cb2e06c97854a254927ed6293381.jpg",
+        "address": "鼓楼区湖东路118号社会主义学院旁(近中国移动)"
+    },
+    {
+        "id": "341a791abf97e39c8bc4e5f027506c4c",
+        "detil": "http://e.meituan.com/meishi/829843/",
+        "title": "聚春园大酒店（东街口总店）",
+        "avgprice": "181",
+        "comments": "1559",
+        "avgscore": "4",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/28c08346e774b8055205b1355626b3b0477900.jpg",
+        "address": "鼓楼区东街2号，海峡影城对面（肯德基，新华都旁）"
+    },
+    {
+        "id": "834fd9ffc2da11fbb2c892d5ed22e037",
+        "detil": "http://e.meituan.com/meishi/3283064/",
+        "title": "初一（3）班炭烤吧",
+        "avgprice": "47",
+        "comments": "495",
+        "avgscore": "4",
+        "fornting": "http://p0.meituan.net/600.600/mogu/9a19e905b17817bb47828e8c74916084148281.jpg",
+        "address": "鼓楼区达明路39-15号（周麻婆楼下）"
+    },
+    {
+        "id": "3dbaf623f9eb29494924837fbe0e6a52",
+        "detil": "http://e.meituan.com/meishi/6078680/",
+        "title": "DQ（王府井店）",
+        "avgprice": "27",
+        "comments": "423",
+        "avgscore": "5",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/2c6f4b91fa5598dac1177ecd9f3c396c591800.jpg",
+        "address": "鼓楼区五四路126号王府井百货B1楼B1-B20铺位"
+    },
+    {
+        "id": "5dcf7487d16d71c5a122796df044eb03",
+        "detil": "http://e.meituan.com/meishi/2389872/",
+        "title": "九和居大酒楼",
+        "avgprice": "144",
+        "comments": "2349",
+        "avgscore": "4",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/5cdd89b67d3d06a799d1898f204865396545389.jpg",
+        "address": "鼓楼区五四路173号新华福广场A座5层"
+    },
+    {
+        "id": "72426377ff0a3baa17abeb910964a46b",
+        "detil": "http://e.meituan.com/meishi/1529234/",
+        "title": "盛世经典牛排（东街店）",
+        "avgprice": "53",
+        "comments": "9066",
+        "avgscore": "3",
+        "fornting": "http://p1.meituan.net/600.600/deal/201207/27/_0727163219.jpg",
+        "address": "鼓楼区杨桥路24号二楼（南后街路口正对面）"
+    },
+    {
+        "id": "d99aabb2840f09f1c40c64e01c39d279",
+        "detil": "http://e.meituan.com/meishi/42731942/",
+        "title": "农之味",
+        "avgprice": "38",
+        "comments": "225",
+        "avgscore": "4",
+        "fornting": "http://p0.meituan.net/600.600/shopmainpic/94e610f9b8d146c39a7507d2999e832c119445.jpg",
+        "address": "鼓楼区五一北路88号五一路津泰路交叉口（保罗酒店门口二楼）"
+    },
+    {
+        "id": "d99aabb2840f09f1c40c64e01c39d279",
+        "detil": "http://e.meituan.com/meishi/42731942/",
+        "title": "农之味",
+        "avgprice": "38",
+        "comments": "225",
+        "avgscore": "4",
+        "fornting": "http://p0.meituan.net/600.600/shopmainpic/94e610f9b8d146c39a7507d2999e832c119445.jpg",
+        "address": "鼓楼区五一北路88号五一路津泰路交叉口（保罗酒店门口二楼）"
+    },
+    {
+        "id": "8881ae303ec214a010acfe29dafaee75",
+        "detil": "http://e.meituan.com/meishi/41084592/",
+        "title": "维恩时光餐厅",
+        "avgprice": "69",
+        "comments": "198",
+        "avgscore": "4",
+        "fornting": "http://p0.meituan.net/600.600/deal/08341d14de29d8674bb248a26321b5bb72082.jpg",
+        "address": "鼓楼区湖东路68号（福三中正对面）"
+    },
+    {
+        "id": "a32abe885d16cc1414be6ef3e256317a",
+        "detil": "http://e.meituan.com/meishi/1156202/",
+        "title": "璞月中华意境菜",
+        "avgprice": "247",
+        "comments": "3367",
+        "avgscore": "5",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/bffc52796dbe9d8c74aaa175a72b36bc126959.png",
+        "address": "鼓楼区湖东路187号城市之光1至5楼（湖东路与五四路交汇处）"
+    },
+    {
+        "id": "a32abe885d16cc1414be6ef3e256317a",
+        "detil": "http://e.meituan.com/meishi/1156202/",
+        "title": "璞月中华意境菜",
+        "avgprice": "247",
+        "comments": "3367",
+        "avgscore": "5",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/bffc52796dbe9d8c74aaa175a72b36bc126959.png",
+        "address": "鼓楼区湖东路187号城市之光1至5楼（湖东路与五四路交汇处）"
+    },
+    {
+        "id": "acd1a98ba0dad0a491799a32744f9713",
+        "detil": "http://e.meituan.com/meishi/834063/",
+        "title": "老朱烧烤",
+        "avgprice": "48",
+        "comments": "147",
+        "avgscore": "5",
+        "fornting": "http://p1.meituan.net/600.600/mogu/c09504482510a3adfa5ee47630380c52441352.jpg",
+        "address": "鼓楼区达明路大中寺巷（周麻婆对面）"
+    },
+    {
+        "id": "507049710d97a5b28d5ebcb21d60c2b3",
+        "detil": "http://e.meituan.com/meishi/1875449/",
+        "title": "钦榕大酒楼（群升国际店）",
+        "avgprice": "91",
+        "comments": "458",
+        "avgscore": "4",
+        "fornting": "http://p1.meituan.net/600.600/deal/ea3133eaf9374f7827ce1c17e443492e136001.jpg",
+        "address": "台江区八一七中路760号群升东百5楼（市工人文化宫旁）"
+    },
+    {
+        "id": "c8f7eeaaa1e908ea586eb3c2cfd8970b",
+        "detil": "http://e.meituan.com/meishi/2366008/",
+        "title": "若可甜品（王府井店）",
+        "avgprice": "38",
+        "comments": "123",
+        "avgscore": "4",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/ba8157275cd4de298d130f7f26ec251d464752.jpg",
+        "address": "鼓楼区五四路126号王府井百货第一层"
+    },
+    {
+        "id": "71fdf3b57c0ca683685c460bc1eed94d",
+        "detil": "http://e.meituan.com/meishi/830041/",
+        "title": "福稷私房面（湖东路店）",
+        "avgprice": "22",
+        "comments": "59",
+        "avgscore": "3",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/b2489d02b81991c4ef5af17a816ad28b140008.jpg",
+        "address": "鼓楼区湖东路171-18号（中国银行正对面）"
+    },
+    {
+        "id": "d5e6223fec395a57049769fc0ffbe97c",
+        "detil": "http://e.meituan.com/meishi/5613221/",
+        "title": "林记沙茶面",
+        "avgprice": "19",
+        "comments": "23",
+        "avgscore": "4",
+        "fornting": "http://p0.meituan.net/600.600/mogu/92e74c723bf37c9b088ac897ee07405b656697.png",
+        "address": "鼓楼区东泰路170号碧玉花园"
+    },
+    {
+        "id": "9e1331006bbfc3f1f492ace62ba400d2",
+        "detil": "http://e.meituan.com/meishi/1877511/",
+        "title": "鑫金悦和谐大酒楼",
+        "avgprice": "116",
+        "comments": "24",
+        "avgscore": "5",
+        "fornting": "http://p0.meituan.net/600.600/deal/2d27e723b8edf5d8f286455030ee60af163228.jpg",
+        "address": "晋安区福马路638号（近福马集团）"
+    },
+    {
+        "id": "b788bfb50610d153d8734991a9234dc1",
+        "detil": "http://e.meituan.com/meishi/6805192/",
+        "title": "美汉堡炸鸡（井大店）",
+        "avgprice": "18",
+        "comments": "143",
+        "avgscore": "3",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/58f1af4c55bf0fb8d91c2e5fa98d348747003.jpg",
+        "address": "鼓楼区鼓东街道井大路157号都市丽景大厦1楼05室店面"
+    },
+    {
+        "id": "e8da4cdc991905728ef787f951faf238",
+        "detil": "http://e.meituan.com/meishi/5442322/",
+        "title": "焙乐滋",
+        "avgprice": "16",
+        "comments": "1011",
+        "avgscore": "5",
+        "fornting": "http://p0.meituan.net/600.600/bbia/dda050014de034212e14daa368df89b1121610.jpg",
+        "address": "鼓楼区海潮东路天天向上KTV旁（如家酒店一层）（如家酒店一层、近西禅寺蒙古营五四路五一广场/古田路正祥中心）"
+    },
+    {
+        "id": "55f0477128673002be5c3776a3922cb5",
+        "detil": "http://e.meituan.com/meishi/67688838/",
+        "title": "我在咖啡（华林店）",
+        "avgprice": "75",
+        "comments": "71",
+        "avgscore": "5",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/f17a5b4b703cdb70818e4e3c451ba2fd178766.jpg",
+        "address": "鼓楼区鼓东街道华林路169号1号楼一层3-1号商铺"
+    },
+    {
+        "id": "b28dba95ace6ee41bf27e013f46a2726",
+        "detil": "http://e.meituan.com/meishi/52534834/",
+        "title": "铜锣湾（三坊七巷店）",
+        "avgprice": "108",
+        "comments": "391",
+        "avgscore": "4",
+        "fornting": "http://p1.meituan.net/600.600/deal/aedfdd0aec40f08d37150bad8fe90dad46033.jpg",
+        "address": "鼓楼区南后街塔巷6号（三坊七塔巷口靠近东百停车场，南街塔巷路口往前走20米）"
+    },
+    {
+        "id": "632fdece4e1b4ce2e43a877ff6ea6a44",
+        "detil": "http://e.meituan.com/meishi/1878205/",
+        "title": "阿来泰国餐厅（西湖店）",
+        "avgprice": "80",
+        "comments": "890",
+        "avgscore": "4",
+        "fornting": "http://p0.meituan.net/600.600/msmerchant/4e28bda0372c2be026c3fddf775c5557590838.jpg",
+        "address": "鼓楼区湖滨路66号中福西湖花园1号楼C区2楼（近普拉达酒吧2楼）"
+    },
+    {
+        "id": "4fb9e0d00d952e9cf0039c6510d56fc2",
+        "detil": "http://e.meituan.com/meishi/829931/",
+        "title": "天福海鲜大酒楼",
+        "avgprice": "126",
+        "comments": "228",
+        "avgscore": "5",
+        "fornting": "http://p1.meituan.net/600.600/deal/201108/29/_0829144515.jpg",
+        "address": "鼓楼区五四路138号天福大厦四楼（近环球广场旁）"
+    },
+    {
+        "id": "627c4ae4f0508699ff5cdee3a21ce1ff",
+        "detil": "http://e.meituan.com/meishi/1552092/",
+        "title": "元祖食品（五四店）",
+        "avgprice": "59",
+        "comments": "0",
+        "avgscore": "4",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/64596310d0df965926e512f1a68b28fc313656.jpg",
+        "address": "鼓楼区温泉街道湖东路187号1号楼6号店面"
+    },
+    {
+        "id": "f295a6934629c364fc74f66a8149b6e9",
+        "detil": "http://e.meituan.com/meishi/41971450/",
+        "title": "汕之膳叶记汕头牛肉火锅（温泉路店）",
+        "avgprice": "60",
+        "comments": "685",
+        "avgscore": "5",
+        "fornting": "http://p1.meituan.net/600.600/bbia/aaebb41faff4db64329ac059acba4eaf450151.jpg",
+        "address": "鼓楼区温泉路43号，温泉百合酒店往湖东路方向100米（永安街公交车站旁）"
+    },
+    {
+        "id": "66f9c55aa8e0e446237c9ff43915477f",
+        "detil": "http://e.meituan.com/meishi/50498258/",
+        "title": "拌面大王（五四路店）",
+        "avgprice": "13",
+        "comments": "3",
+        "avgscore": "4",
+        "fornting": "http://p1.meituan.net/600.600/mogu/8675529c8d1ec7cf9875241cd3a26ace54793.jpg",
+        "address": "鼓楼区五四路273号省体斜对面（国色天香一楼）"
+    },
+    {
+        "id": "6ceab010ebf94a01ade35b9c930958ad",
+        "detil": "http://e.meituan.com/meishi/2658550/",
+        "title": "重庆川湘阁厨房（岳峰南路店）",
+        "avgprice": "35",
+        "comments": "9",
+        "avgscore": "4",
+        "fornting": "http://p0.meituan.net/600.600/mogu/6b4bfbba74c4ea0c04b15e35d7ea1e98378653.jpg",
+        "address": "晋安区王庄街道福马路250号福马名城（现福马公寓）"
+    },
+    {
+        "id": "053eb7b7491637d944a2544fb2ba6233",
+        "detil": "http://e.meituan.com/meishi/1875740/",
+        "title": "和谐苑",
+        "avgprice": "271",
+        "comments": "73",
+        "avgscore": "5",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/3eefbc66d29c29c8a92f400348d40b31191208.jpg",
+        "address": "鼓楼区东街口卫前街三牧坊5号（福州一中后侧）"
+    },
+    {
+        "id": "452e4ece16f946fa99a786d6d8ca4b3e",
+        "detil": "http://e.meituan.com/meishi/836423/",
+        "title": "福来茶馆",
+        "avgprice": "55",
+        "comments": "1706",
+        "avgscore": "5",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/8591c69afa7b8416f0433daf76c846a33825071.jpg",
+        "address": "鼓楼区南后街53号"
+    },
+    {
+        "id": "67cf532e392b3f260f919b55365d1ea9",
+        "detil": "http://e.meituan.com/meishi/834763/",
+        "title": "味千拉面（福州八一七北路分店）",
+        "avgprice": "46",
+        "comments": "6",
+        "avgscore": "4",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/bd6b9f906eb72f4d38f52cfb5bad0ed3511320.jpg",
+        "address": "鼓楼区东街街道八一七北路133号国际商厦（大洋百货）B1楼A室-16楼"
+    },
+    {
+        "id": "0b9a069c629e78bcb3638e17b63d761c",
+        "detil": "http://e.meituan.com/meishi/60600980/",
+        "title": "福豚福居酒屋（井大路店）",
+        "avgprice": "89",
+        "comments": "80",
+        "avgscore": "3",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/021c316def6ff09ec477f756ef3d27bb203457.jpg",
+        "address": "鼓楼区井大路223号（近湖东路）"
+    },
+    {
+        "id": "f147868436809e98c223b05575b64b1d",
+        "detil": "http://e.meituan.com/meishi/2763302/",
+        "title": "捷客莱汉堡",
+        "avgprice": "0",
+        "comments": "17",
+        "avgscore": "4",
+        "fornting": "http://p1.meituan.net/600.600/xianfu/900f9a6aea8bf31aa5101b5bdf9a35c1318028.jpg",
+        "address": "鼓楼区道山路219号金品公寓1-2#楼连接体1层02店面"
+    },
+    {
+        "id": "ec8dcb36ed2b106aba2c83efb468ed25",
+        "detil": "http://e.meituan.com/meishi/6736920/",
+        "title": "85度C（新华都五四店）",
+        "avgprice": "25",
+        "comments": "0",
+        "avgscore": "4",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/dae9973d8fbc8f52db323ae678c23f3549334.jpg",
+        "address": "鼓楼区五四路162号新华都购物广场1层（环球广场旁）"
+    },
+    {
+        "id": "99babe8f3ba43ae7f6e161c10cd65d6e",
+        "detil": "http://e.meituan.com/meishi/830167/",
+        "title": "别有天吴家私房菜",
+        "avgprice": "94",
+        "comments": "7",
+        "avgscore": "4",
+        "fornting": "http://p1.meituan.net/600.600/poi/61587c59d807aa9574df83bd8c8d18e936864.jpg",
+        "address": "鼓楼区五四路国际大厦3楼"
+    },
+    {
+        "id": "d420d7cca364b22282669aed771d5f48",
+        "detil": "http://e.meituan.com/meishi/842570/",
+        "title": "85度C（福州东方店）",
+        "avgprice": "26",
+        "comments": "0",
+        "avgscore": "4",
+        "fornting": "https://img.meituan.net/600.600/msmerchant/dae9973d8fbc8f52db323ae678c23f3549334.jpg",
+        "address": "鼓楼区东街96号东方大酒店1楼2号店铺(近省立医院)"
+    },
+    {
+        "id": "09fb7df95e02c50d841357b924f4fc75",
+        "detil": "http://e.meituan.com/meishi/3278783/",
+        "title": "美德园中西自助餐厅",
+        "avgprice": "22",
+        "comments": "4444",
+        "avgscore": "4",
+        "fornting": "http://p0.meituan.net/600.600/deal/__29903712__6574455.jpg",
+        "address": "鼓楼区八一七中路103号顺丰楼4层（福州大饭店西侧）"
+    }
+]
